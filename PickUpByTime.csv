@@ -1,0 +1,4010 @@
+PUHour,PUZone,month,count
+afternoon,Upper East Side South,1,157826
+afternoon,Upper East Side North,1,151358
+evening,Times Sq/Theatre District,1,136867
+evening,Midtown Center,1,136487
+afternoon,Midtown Center,1,134284
+evening,Union Sq,1,129806
+evening,Midtown East,1,123194
+morning,Upper East Side North,1,115309
+afternoon,Midtown East,1,110824
+evening,East Village,1,110726
+afternoon,Union Sq,1,109299
+evening,Penn Station/Madison Sq West,1,108464
+evening,Upper East Side South,1,105797
+evening,Lincoln Square East,1,104454
+morning,Penn Station/Madison Sq West,1,104143
+morning,Upper East Side South,1,103239
+afternoon,Penn Station/Madison Sq West,1,102715
+evening,Clinton East,1,101075
+afternoon,Upper West Side South,1,98988
+afternoon,Murray Hill,1,98182
+evening,Murray Hill,1,95915
+afternoon,Times Sq/Theatre District,1,95499
+afternoon,Lincoln Square East,1,93984
+evening,Midtown North,1,92676
+midnight,East Village,1,88165
+afternoon,Midtown North,1,87407
+morning,Murray Hill,1,86052
+evening,Upper East Side North,1,86032
+evening,JFK Airport,1,84578
+evening,LaGuardia Airport,1,82406
+evening,Gramercy,1,81008
+evening,West Village,1,79469
+evening,Midtown South,1,79361
+morning,Clinton East,1,78625
+afternoon,JFK Airport,1,77141
+morning,Midtown East,1,76679
+afternoon,LaGuardia Airport,1,75216
+afternoon,Lenox Hill West,1,73567
+evening,East Chelsea,1,73506
+evening,Upper West Side South,1,72155
+afternoon,Midtown South,1,70646
+afternoon,Upper West Side North,1,69732
+morning,Lenox Hill West,1,69660
+morning,Midtown Center,1,68884
+afternoon,Clinton East,1,68637
+morning,Upper West Side South,1,66162
+afternoon,East Chelsea,1,66070
+afternoon,Gramercy,1,65341
+evening,Lenox Hill West,1,64263
+morning,Lincoln Square East,1,63032
+evening,Sutton Place/Turtle Bay North,1,62874
+morning,Gramercy,1,62407
+evening,Flatiron,1,62389
+morning,Times Sq/Theatre District,1,62361
+evening,TriBeCa/Civic Center,1,61247
+afternoon,Lenox Hill East,1,61051
+morning,Upper West Side North,1,60663
+evening,Greenwich Village North,1,60410
+midnight,Lower East Side,1,60391
+morning,Union Sq,1,60047
+morning,Lenox Hill East,1,58997
+morning,Garment District,1,58713
+evening,Garment District,1,58213
+afternoon,Garment District,1,57247
+afternoon,Flatiron,1,57220
+afternoon,East Village,1,57017
+afternoon,Central Park,1,56965
+evening,Greenwich Village South,1,55049
+afternoon,Yorkville West,1,54668
+afternoon,TriBeCa/Civic Center,1,54345
+morning,Sutton Place/Turtle Bay North,1,53922
+evening,NV,1,53534
+afternoon,NV,1,52811
+afternoon,Greenwich Village North,1,51677
+afternoon,Sutton Place/Turtle Bay North,1,51365
+evening,Yorkville West,1,51310
+morning,Yorkville West,1,50868
+morning,Midtown North,1,50473
+morning,East Chelsea,1,50377
+afternoon,West Chelsea/Hudson Yards,1,50203
+morning,Yorkville East,1,49470
+midnight,Clinton East,1,49077
+evening,Lower East Side,1,48088
+evening,Upper West Side North,1,47902
+morning,East Village,1,47672
+morning,Midtown South,1,46834
+afternoon,West Village,1,46756
+morning,LaGuardia Airport,1,46332
+midnight,West Village,1,46037
+morning,Flatiron,1,43240
+morning,TriBeCa/Civic Center,1,43232
+evening,Little Italy/NoLiTa,1,43197
+evening,Lenox Hill East,1,42078
+morning,JFK Airport,1,41218
+evening,West Chelsea/Hudson Yards,1,40745
+afternoon,Yorkville East,1,40403
+morning,Greenwich Village North,1,39573
+morning,West Village,1,39367
+evening,Kips Bay,1,39364
+midnight,Times Sq/Theatre District,1,39352
+evening,UN/Turtle Bay South,1,38797
+morning,NV,1,38624
+afternoon,Lincoln Square West,1,38406
+afternoon,UN/Turtle Bay South,1,37811
+afternoon,Kips Bay,1,37569
+morning,Kips Bay,1,36718
+midnight,Greenwich Village South,1,36337
+morning,Lincoln Square West,1,35625
+morning,UN/Turtle Bay South,1,35340
+evening,Meatpacking/West Village West,1,34781
+midnight,East Chelsea,1,34605
+midnight,Union Sq,1,33883
+evening,SoHo,1,31462
+midnight,Midtown South,1,30927
+afternoon,Manhattan Valley,1,30383
+afternoon,Battery Park City,1,29981
+afternoon,Little Italy/NoLiTa,1,29948
+midnight,Gramercy,1,29939
+afternoon,Greenwich Village South,1,29886
+morning,Central Park,1,29837
+morning,West Chelsea/Hudson Yards,1,29636
+morning,Battery Park City,1,29335
+afternoon,SoHo,1,28830
+afternoon,Meatpacking/West Village West,1,27994
+evening,Central Park,1,27913
+morning,Manhattan Valley,1,27829
+morning,Clinton West,1,26502
+midnight,Murray Hill,1,26095
+afternoon,Clinton West,1,26090
+evening,Lincoln Square West,1,25429
+evening,Financial District North,1,25016
+midnight,Meatpacking/West Village West,1,24916
+midnight,Penn Station/Madison Sq West,1,24648
+evening,Battery Park City,1,24606
+evening,Yorkville East,1,24569
+midnight,JFK Airport,1,24230
+midnight,Little Italy/NoLiTa,1,23276
+evening,Clinton West,1,23234
+afternoon,World Trade Center,1,22391
+morning,East Harlem South,1,21938
+midnight,Flatiron,1,21759
+afternoon,Financial District North,1,21436
+midnight,Midtown Center,1,21340
+morning,Meatpacking/West Village West,1,21101
+afternoon,East Harlem South,1,20993
+afternoon,Lower East Side,1,20922
+evening,Manhattan Valley,1,20709
+midnight,NV,1,20478
+midnight,Midtown North,1,20383
+midnight,Midtown East,1,20249
+evening,Hudson Sq,1,19769
+midnight,TriBeCa/Civic Center,1,19571
+midnight,Lenox Hill West,1,19249
+midnight,Yorkville West,1,18758
+midnight,Sutton Place/Turtle Bay North,1,18123
+morning,Financial District North,1,17938
+midnight,Garment District,1,17922
+morning,Greenwich Village South,1,17416
+afternoon,Hudson Sq,1,16785
+afternoon,Morningside Heights,1,16196
+midnight,Greenwich Village North,1,16095
+midnight,Lincoln Square East,1,15760
+evening,World Trade Center,1,15756
+midnight,West Chelsea/Hudson Yards,1,15555
+morning,Lower East Side,1,15450
+midnight,Upper West Side South,1,14959
+midnight,Upper East Side South,1,13801
+evening,Financial District South,1,13778
+morning,Little Italy/NoLiTa,1,13447
+evening,East Harlem South,1,13430
+midnight,Kips Bay,1,13029
+morning,Morningside Heights,1,13012
+morning,Stuy Town/Peter Cooper Village,1,12934
+afternoon,Financial District South,1,12626
+evening,Morningside Heights,1,12573
+morning,SoHo,1,12520
+morning,Hudson Sq,1,11226
+midnight,Clinton West,1,10983
+morning,World Trade Center,1,10980
+midnight,Upper East Side North,1,10950
+morning,East Harlem North,1,10524
+morning,Central Harlem,1,10491
+midnight,Upper West Side North,1,10235
+morning,Bloomingdale,1,9314
+afternoon,Central Harlem,1,9184
+afternoon,East Harlem North,1,9057
+midnight,Hudson Sq,1,8837
+midnight,SoHo,1,8750
+afternoon,Bloomingdale,1,8728
+midnight,UN/Turtle Bay South,1,8708
+evening,Central Harlem,1,8268
+midnight,LaGuardia Airport,1,8239
+midnight,Lenox Hill East,1,8071
+afternoon,Stuy Town/Peter Cooper Village,1,7857
+evening,Alphabet City,1,7767
+midnight,Alphabet City,1,7663
+afternoon,Chinatown,1,7637
+evening,East Harlem North,1,7531
+evening,Bloomingdale,1,7158
+morning,Alphabet City,1,7018
+evening,Chinatown,1,6980
+morning,Financial District South,1,6808
+morning,Sunnyside,1,6641
+midnight,Financial District North,1,6375
+evening,Seaport,1,6293
+evening,Stuy Town/Peter Cooper Village,1,6234
+midnight,East Harlem South,1,6229
+evening,Two Bridges/Seward Park,1,5972
+midnight,Two Bridges/Seward Park,1,5794
+midnight,Astoria,1,5671
+midnight,Williamsburg (North Side),1,5576
+afternoon,Seaport,1,5545
+midnight,Williamsburg (South Side),1,5388
+morning,Central Harlem North,1,5248
+morning,Astoria,1,5169
+afternoon,Alphabet City,1,5154
+midnight,Yorkville East,1,5136
+evening,Park Slope,1,5135
+midnight,East Harlem North,1,5053
+midnight,Manhattan Valley,1,5022
+midnight,Central Harlem,1,4576
+midnight,Lincoln Square West,1,4491
+evening,Williamsburg (North Side),1,4264
+midnight,Central Park,1,4223
+morning,Brooklyn Heights,1,4212
+morning,Chinatown,1,4142
+afternoon,Two Bridges/Seward Park,1,4133
+midnight,Morningside Heights,1,4013
+evening,Downtown Brooklyn/MetroTech,1,3962
+midnight,Sunnyside,1,3924
+afternoon,Sunnyside,1,3915
+morning,Seaport,1,3735
+evening,Williamsburg (South Side),1,3730
+afternoon,Central Harlem North,1,3692
+evening,Fort Greene,1,3602
+midnight,Financial District South,1,3590
+morning,Downtown Brooklyn/MetroTech,1,3578
+morning,Hamilton Heights,1,3535
+evening,Astoria,1,3515
+morning,Washington Heights South,1,3440
+midnight,World Trade Center,1,3326
+midnight,East Williamsburg,1,3272
+midnight,Chinatown,1,3258
+morning,Two Bridges/Seward Park,1,3256
+evening,Central Harlem North,1,3241
+evening,Boerum Hill,1,3200
+midnight,Park Slope,1,3164
+afternoon,Astoria,1,3107
+midnight,Battery Park City,1,3101
+morning,Cobble Hill,1,3056
+midnight,Stuy Town/Peter Cooper Village,1,3018
+morning,Long Island City/Queens Plaza,1,2965
+afternoon,Downtown Brooklyn/MetroTech,1,2935
+evening,Sunnyside,1,2882
+morning,Carroll Gardens,1,2880
+midnight,Bloomingdale,1,2870
+evening,Long Island City/Hunters Point,1,2862
+evening,Hamilton Heights,1,2725
+midnight,Central Harlem North,1,2703
+evening,Brooklyn Heights,1,2682
+morning,Woodside,1,2610
+midnight,Hamilton Heights,1,2574
+afternoon,Long Island City/Queens Plaza,1,2572
+afternoon,Manhattanville,1,2571
+morning,Manhattanville,1,2540
+morning,Steinway,1,2469
+evening,Long Island City/Queens Plaza,1,2411
+midnight,Long Island City/Queens Plaza,1,2401
+morning,Boerum Hill,1,2378
+afternoon,Long Island City/Hunters Point,1,2369
+evening,Manhattanville,1,2369
+morning,Old Astoria,1,2307
+evening,Washington Heights South,1,2284
+midnight,Long Island City/Hunters Point,1,2250
+midnight,Greenpoint,1,2228
+afternoon,Hamilton Heights,1,2222
+afternoon,Brooklyn Heights,1,2208
+midnight,Jackson Heights,1,2107
+midnight,Boerum Hill,1,2096
+afternoon,Washington Heights South,1,2060
+midnight,Seaport,1,2047
+afternoon,Boerum Hill,1,2045
+midnight,Bushwick South,1,2000
+morning,Park Slope,1,1975
+midnight,Fort Greene,1,1921
+morning,Queensbridge/Ravenswood,1,1904
+afternoon,Battery Park,1,1898
+evening,Greenpoint,1,1886
+afternoon,Park Slope,1,1857
+morning,Long Island City/Hunters Point,1,1803
+midnight,Woodside,1,1798
+midnight,Downtown Brooklyn/MetroTech,1,1762
+midnight,Washington Heights South,1,1736
+morning,Jackson Heights,1,1734
+evening,East Williamsburg,1,1721
+morning,Fort Greene,1,1585
+afternoon,Fort Greene,1,1514
+evening,NA,1,1478
+afternoon,Old Astoria,1,1371
+evening,Clinton Hill,1,1364
+midnight,Steinway,1,1359
+midnight,Manhattanville,1,1348
+afternoon,Williamsburg (North Side),1,1344
+midnight,Old Astoria,1,1330
+evening,Prospect Heights,1,1294
+midnight,Bushwick North,1,1293
+midnight,Elmhurst,1,1274
+evening,Cobble Hill,1,1243
+midnight,Bedford,1,1225
+evening,Carroll Gardens,1,1224
+midnight,NA,1,1218
+midnight,Clinton Hill,1,1210
+morning,DUMBO/Vinegar Hill,1,1201
+afternoon,Steinway,1,1162
+afternoon,Williamsburg (South Side),1,1160
+evening,Old Astoria,1,1104
+evening,DUMBO/Vinegar Hill,1,1075
+afternoon,Woodside,1,1070
+afternoon,Cobble Hill,1,1062
+afternoon,Queensbridge/Ravenswood,1,1055
+midnight,Brooklyn Heights,1,1039
+evening,Bedford,1,1036
+midnight,Crown Heights North,1,1028
+afternoon,Jackson Heights,1,1002
+evening,Steinway,1,991
+afternoon,NA,1,989
+midnight,Prospect Heights,1,960
+afternoon,Carroll Gardens,1,930
+afternoon,DUMBO/Vinegar Hill,1,877
+morning,Elmhurst,1,874
+evening,Jackson Heights,1,870
+morning,NA,1,838
+evening,Woodside,1,837
+midnight,Carroll Gardens,1,813
+afternoon,Greenpoint,1,777
+morning,Williamsburg (South Side),1,774
+evening,Bushwick South,1,744
+midnight,Queensbridge/Ravenswood,1,732
+morning,Williamsburg (North Side),1,720
+evening,Queensbridge/Ravenswood,1,680
+afternoon,Baisley Park,1,679
+evening,Crown Heights North,1,661
+evening,Washington Heights North,1,639
+morning,West Concourse,1,634
+midnight,Stuyvesant Heights,1,619
+midnight,Gowanus,1,618
+evening,Gowanus,1,602
+morning,Forest Hills,1,599
+morning,Battery Park,1,598
+morning,Greenpoint,1,584
+morning,Clinton Hill,1,566
+midnight,Washington Heights North,1,562
+midnight,Elmhurst/Maspeth,1,541
+midnight,Cobble Hill,1,540
+afternoon,Clinton Hill,1,533
+afternoon,West Concourse,1,515
+midnight,Mott Haven/Port Morris,1,503
+afternoon,Prospect Heights,1,453
+afternoon,Elmhurst,1,446
+afternoon,Flushing Meadows-Corona Park,1,444
+evening,Battery Park,1,441
+morning,East Elmhurst,1,416
+midnight,Forest Hills,1,412
+morning,Washington Heights North,1,410
+afternoon,Mott Haven/Port Morris,1,409
+evening,South Williamsburg,1,395
+afternoon,East Williamsburg,1,386
+evening,Elmhurst,1,385
+evening,West Concourse,1,368
+afternoon,Newark Airport,1,363
+evening,Mott Haven/Port Morris,1,363
+evening,East Elmhurst,1,361
+midnight,Sunset Park West,1,360
+evening,Baisley Park,1,360
+morning,Elmhurst/Maspeth,1,358
+midnight,Prospect-Lefferts Gardens,1,354
+afternoon,East Elmhurst,1,350
+morning,Prospect Heights,1,349
+morning,East Williamsburg,1,348
+midnight,Inwood,1,348
+morning,Crown Heights North,1,346
+evening,Prospect-Lefferts Gardens,1,341
+evening,Stuyvesant Heights,1,341
+midnight,Flatbush/Ditmas Park,1,338
+morning,Mott Haven/Port Morris,1,332
+afternoon,Jamaica,1,330
+midnight,South Williamsburg,1,324
+morning,Sunset Park West,1,324
+morning,Flushing Meadows-Corona Park,1,314
+afternoon,Gowanus,1,312
+afternoon,Bedford,1,311
+afternoon,Washington Heights North,1,310
+midnight,DUMBO/Vinegar Hill,1,305
+midnight,West Concourse,1,303
+morning,Bedford,1,302
+afternoon,South Jamaica,1,296
+evening,Bushwick North,1,295
+afternoon,Forest Hills,1,292
+afternoon,Crown Heights North,1,290
+morning,Baisley Park,1,284
+morning,Prospect-Lefferts Gardens,1,283
+evening,Inwood,1,274
+morning,Gowanus,1,271
+evening,Flushing Meadows-Corona Park,1,259
+midnight,East Elmhurst,1,257
+midnight,Rego Park,1,256
+morning,Rego Park,1,243
+afternoon,Briarwood/Jamaica Hills,1,240
+afternoon,Elmhurst/Maspeth,1,236
+evening,Flatbush/Ditmas Park,1,236
+midnight,North Corona,1,234
+morning,Columbia Street,1,233
+morning,Bushwick South,1,230
+afternoon,South Ozone Park,1,228
+evening,Forest Hills,1,224
+midnight,Ridgewood,1,223
+afternoon,Prospect-Lefferts Gardens,1,211
+morning,Flatbush/Ditmas Park,1,200
+evening,Sunset Park West,1,199
+afternoon,Springfield Gardens South,1,199
+morning,Newark Airport,1,193
+morning,Kensington,1,191
+morning,Inwood,1,191
+morning,Cypress Hills,1,187
+evening,Elmhurst/Maspeth,1,186
+morning,Briarwood/Jamaica Hills,1,175
+midnight,Melrose South,1,168
+afternoon,Bushwick South,1,166
+afternoon,Randalls Island,1,165
+afternoon,Rego Park,1,163
+midnight,Crown Heights South,1,163
+afternoon,Sunset Park West,1,162
+evening,Jamaica,1,159
+morning,Corona,1,153
+morning,Saint Michaels Cemetery/Woodside,1,152
+midnight,Maspeth,1,152
+evening,Crown Heights South,1,152
+midnight,Bay Ridge,1,151
+evening,South Jamaica,1,150
+afternoon,Inwood,1,146
+afternoon,South Williamsburg,1,146
+morning,Melrose South,1,146
+afternoon,Flatbush/Ditmas Park,1,146
+afternoon,Corona,1,146
+afternoon,Kew Gardens,1,145
+afternoon,Flushing,1,145
+evening,Rego Park,1,141
+morning,Jamaica,1,141
+evening,Red Hook,1,139
+evening,Roosevelt Island,1,139
+evening,Columbia Street,1,136
+evening,Briarwood/Jamaica Hills,1,136
+midnight,Baisley Park,1,135
+midnight,Prospect Park,1,135
+evening,Maspeth,1,134
+midnight,Corona,1,134
+morning,Bushwick North,1,133
+morning,South Jamaica,1,133
+midnight,East Concourse/Concourse Village,1,131
+evening,Prospect Park,1,128
+evening,Brooklyn Navy Yard,1,127
+afternoon,Maspeth,1,127
+afternoon,Stuyvesant Heights,1,126
+midnight,Flushing,1,125
+midnight,Battery Park,1,125
+afternoon,Kensington,1,122
+afternoon,Red Hook,1,122
+morning,Stuyvesant Heights,1,118
+morning,Red Hook,1,118
+afternoon,Roosevelt Island,1,118
+evening,Kew Gardens,1,115
+afternoon,Prospect Park,1,114
+morning,East Concourse/Concourse Village,1,114
+morning,Windsor Terrace,1,112
+afternoon,Richmond Hill,1,112
+evening,Springfield Gardens South,1,111
+afternoon,East Concourse/Concourse Village,1,111
+evening,Randalls Island,1,108
+afternoon,Ocean Parkway South,1,108
+morning,Grymes Hill/Clifton,1,108
+midnight,Windsor Terrace,1,107
+evening,Windsor Terrace,1,106
+midnight,Highbridge,1,102
+morning,Randalls Island,1,101
+morning,Brighton Beach,1,101
+afternoon,Saint Michaels Cemetery/Woodside,1,101
+evening,Kensington,1,100
+midnight,Flushing Meadows-Corona Park,1,100
+evening,Flushing,1,100
+afternoon,Cypress Hills,1,100
+evening,East Concourse/Concourse Village,1,99
+midnight,Kensington,1,99
+morning,Kew Gardens,1,98
+midnight,Erasmus,1,97
+afternoon,Melrose South,1,97
+midnight,Briarwood/Jamaica Hills,1,96
+evening,Corona,1,96
+midnight,Jamaica,1,94
+evening,South Ozone Park,1,94
+midnight,Ocean Hill,1,94
+evening,Melrose South,1,90
+midnight,Mount Hope,1,90
+midnight,University Heights/Morris Heights,1,88
+morning,Springfield Gardens South,1,88
+morning,Flushing,1,88
+evening,Bay Ridge,1,86
+evening,Newark Airport,1,84
+morning,Roosevelt Island,1,83
+midnight,Roosevelt Island,1,83
+morning,Highbridge,1,83
+afternoon,Columbia Street,1,83
+morning,South Williamsburg,1,81
+afternoon,Brooklyn Navy Yard,1,80
+morning,South Ozone Park,1,80
+afternoon,Crown Heights South,1,79
+evening,Richmond Hill,1,78
+midnight,Richmond Hill,1,76
+evening,North Corona,1,74
+evening,Ridgewood,1,74
+afternoon,Stapleton,1,74
+afternoon,Borough Park,1,72
+midnight,South Ozone Park,1,72
+morning,Erasmus,1,72
+afternoon,Grymes Hill/Clifton,1,69
+morning,East New York,1,69
+morning,Prospect Park,1,68
+midnight,East New York,1,68
+morning,Morrisania/Melrose,1,67
+morning,Maspeth,1,67
+afternoon,Windsor Terrace,1,67
+evening,Erasmus,1,66
+evening,Spuyten Duyvil/Kingsbridge,1,65
+midnight,Morrisania/Melrose,1,65
+morning,Stapleton,1,65
+midnight,Kingsbridge Heights,1,65
+midnight,Columbia Street,1,65
+midnight,Spuyten Duyvil/Kingsbridge,1,65
+evening,Ocean Hill,1,64
+midnight,Canarsie,1,64
+morning,Kew Gardens Hills,1,63
+midnight,Kew Gardens,1,63
+afternoon,Brighton Beach,1,62
+morning,Bay Ridge,1,62
+afternoon,Bay Ridge,1,60
+midnight,Sunset Park East,1,60
+morning,North Corona,1,59
+midnight,Bedford Park,1,59
+morning,Crown Heights South,1,59
+morning,Borough Park,1,59
+afternoon,Kew Gardens Hills,1,58
+evening,East New York,1,58
+morning,Richmond Hill,1,57
+midnight,Middle Village,1,57
+morning,Homecrest,1,56
+evening,Gravesend,1,56
+midnight,Newark Airport,1,56
+midnight,Red Hook,1,55
+midnight,East Tremont,1,55
+morning,Brooklyn Navy Yard,1,55
+afternoon,East New York,1,55
+afternoon,Ocean Hill,1,55
+midnight,Brownsville,1,54
+midnight,Longwood,1,54
+evening,Brighton Beach,1,54
+afternoon,Highbridge,1,54
+evening,Mount Hope,1,51
+afternoon,Bushwick North,1,51
+evening,Canarsie,1,50
+evening,Brownsville,1,49
+morning,Westchester Village/Unionport,1,49
+midnight,Woodhaven,1,49
+morning,Woodhaven,1,48
+morning,Coney Island,1,47
+midnight,Soundview/Castle Hill,1,47
+midnight,Fordham South,1,47
+evening,Homecrest,1,47
+morning,Astoria Park,1,47
+afternoon,Middle Village,1,46
+midnight,Springfield Gardens South,1,46
+midnight,Cypress Hills,1,46
+morning,Midwood,1,45
+midnight,Borough Park,1,45
+midnight,Bensonhurst West,1,45
+morning,Spuyten Duyvil/Kingsbridge,1,45
+midnight,East New York/Pennsylvania Avenue,1,44
+midnight,Claremont/Bathgate,1,44
+midnight,East Flatbush/Remsen Village,1,44
+afternoon,Homecrest,1,44
+afternoon,Ridgewood,1,44
+midnight,Flatlands,1,43
+midnight,Soundview/Bruckner,1,43
+midnight,Van Cortlandt Village,1,43
+morning,Soundview/Bruckner,1,43
+midnight,South Jamaica,1,43
+morning,Mount Hope,1,42
+midnight,Ocean Parkway South,1,42
+afternoon,Spuyten Duyvil/Kingsbridge,1,42
+midnight,Hunts Point,1,41
+evening,Highbridge,1,41
+evening,East Flatbush/Remsen Village,1,41
+evening,Flatlands,1,39
+evening,Morrisania/Melrose,1,39
+midnight,Kew Gardens Hills,1,39
+morning,Claremont/Bathgate,1,39
+morning,Sheepshead Bay,1,38
+morning,Ocean Hill,1,38
+afternoon,Astoria Park,1,38
+afternoon,Van Nest/Morris Park,1,38
+afternoon,Canarsie,1,38
+evening,University Heights/Morris Heights,1,38
+midnight,Randalls Island,1,37
+morning,Flatlands,1,37
+midnight,Midwood,1,37
+midnight,Westchester Village/Unionport,1,36
+morning,University Heights/Morris Heights,1,36
+afternoon,North Corona,1,36
+midnight,Saint Michaels Cemetery/Woodside,1,36
+afternoon,Morrisania/Melrose,1,36
+evening,Kew Gardens Hills,1,35
+evening,Middle Village,1,35
+midnight,Norwood,1,35
+midnight,East Flatbush/Farragut,1,35
+morning,Van Nest/Morris Park,1,35
+evening,Hunts Point,1,35
+morning,Gravesend,1,34
+midnight,Crotona Park East,1,33
+afternoon,Erasmus,1,33
+midnight,Queensboro Hill,1,33
+morning,Ridgewood,1,33
+midnight,West Farms/Bronx River,1,33
+afternoon,Coney Island,1,32
+morning,Queensboro Hill,1,31
+evening,East Flatbush/Farragut,1,30
+morning,Crotona Park East,1,29
+morning,Pelham Parkway,1,29
+afternoon,University Heights/Morris Heights,1,29
+evening,Sunset Park East,1,29
+evening,Cypress Hills,1,29
+midnight,Van Nest/Morris Park,1,29
+afternoon,Flatlands,1,29
+morning,Parkchester,1,29
+morning,Bedford Park,1,29
+midnight,Belmont,1,29
+afternoon,Gravesend,1,28
+morning,Canarsie,1,28
+afternoon,Queensboro Hill,1,28
+afternoon,Howard Beach,1,28
+evening,Van Nest/Morris Park,1,28
+afternoon,Midwood,1,28
+afternoon,East Flatbush/Farragut,1,27
+evening,East Tremont,1,27
+midnight,Pelham Parkway,1,27
+morning,Ocean Parkway South,1,27
+evening,Norwood,1,27
+morning,Van Cortlandt Village,1,27
+evening,Co-Op City,1,27
+morning,Marble Hill,1,26
+midnight,Marine Park/Mill Basin,1,26
+afternoon,Brownsville,1,26
+midnight,Brighton Beach,1,26
+morning,Middle Village,1,26
+midnight,Brooklyn Navy Yard,1,26
+afternoon,Sheepshead Bay,1,26
+morning,Bensonhurst East,1,25
+midnight,Glendale,1,25
+morning,Whitestone,1,25
+evening,Kingsbridge Heights,1,25
+evening,Bedford Park,1,25
+morning,Sunset Park East,1,24
+midnight,Schuylerville/Edgewater Park,1,24
+afternoon,Soundview/Castle Hill,1,24
+evening,Ocean Parkway South,1,24
+morning,College Point,1,24
+morning,Brownsville,1,24
+evening,Midwood,1,23
+afternoon,East Tremont,1,23
+morning,Soundview/Castle Hill,1,23
+midnight,Jamaica Estates,1,23
+afternoon,Claremont/Bathgate,1,23
+evening,Bayside,1,23
+evening,Longwood,1,23
+afternoon,Whitestone,1,23
+afternoon,Woodhaven,1,22
+evening,Dyker Heights,1,22
+midnight,Ozone Park,1,22
+midnight,Fresh Meadows,1,22
+afternoon,East Flatbush/Remsen Village,1,22
+midnight,Parkchester,1,22
+evening,Astoria Park,1,22
+morning,Kingsbridge Heights,1,22
+midnight,Bayside,1,22
+evening,Riverdale/North Riverdale/Fieldston,1,22
+evening,Woodhaven,1,22
+afternoon,Murray Hill-Queens,1,21
+morning,East Flatbush/Farragut,1,21
+morning,Jamaica Estates,1,21
+morning,Hunts Point,1,21
+midnight,Springfield Gardens North,1,21
+afternoon,Bellerose,1,21
+evening,Stapleton,1,21
+midnight,Hillcrest/Pomonok,1,21
+midnight,Williamsbridge/Olinville,1,21
+midnight,Dyker Heights,1,21
+afternoon,Hillcrest/Pomonok,1,21
+morning,East Flatbush/Remsen Village,1,21
+midnight,Gravesend,1,20
+morning,Springfield Gardens North,1,20
+afternoon,College Point,1,20
+afternoon,Riverdale/North Riverdale/Fieldston,1,20
+evening,Van Cortlandt Village,1,20
+afternoon,Inwood Hill Park,1,20
+evening,Saint Michaels Cemetery/Woodside,1,20
+evening,East New York/Pennsylvania Avenue,1,20
+afternoon,Queens Village,1,20
+morning,East Tremont,1,20
+midnight,Highbridge Park,1,20
+evening,Marble Hill,1,20
+morning,Norwood,1,20
+midnight,Marble Hill,1,19
+evening,Coney Island,1,19
+morning,Inwood Hill Park,1,19
+evening,Soundview/Bruckner,1,19
+evening,Belmont,1,19
+midnight,Bensonhurst East,1,19
+evening,Bensonhurst West,1,19
+evening,Borough Park,1,19
+afternoon,Westchester Village/Unionport,1,19
+midnight,Homecrest,1,19
+evening,Parkchester,1,19
+evening,Queensboro Hill,1,19
+afternoon,Bedford Park,1,18
+afternoon,Parkchester,1,18
+morning,Bath Beach,1,18
+midnight,Woodlawn/Wakefield,1,18
+evening,Westchester Village/Unionport,1,18
+midnight,Astoria Park,1,18
+morning,Riverdale/North Riverdale/Fieldston,1,18
+midnight,Arrochar/Fort Wadsworth,1,18
+morning,Madison,1,18
+morning,West Farms/Bronx River,1,18
+evening,Whitestone,1,17
+evening,Highbridge Park,1,17
+morning,Hillcrest/Pomonok,1,17
+morning,East New York/Pennsylvania Avenue,1,17
+afternoon,Bensonhurst East,1,17
+midnight,Sheepshead Bay,1,17
+evening,Williamsbridge/Olinville,1,17
+evening,Ozone Park,1,17
+evening,Fordham South,1,17
+evening,Glendale,1,17
+afternoon,Hunts Point,1,17
+evening,Schuylerville/Edgewater Park,1,16
+morning,Williamsbridge/Olinville,1,16
+midnight,College Point,1,16
+midnight,Queens Village,1,16
+evening,Pelham Parkway,1,16
+morning,Ozone Park,1,16
+afternoon,Soundview/Bruckner,1,16
+evening,West Farms/Bronx River,1,15
+afternoon,Marine Park/Mill Basin,1,15
+morning,Longwood,1,15
+evening,Marine Park/Mill Basin,1,15
+midnight,Bellerose,1,15
+morning,Bensonhurst West,1,15
+evening,Howard Beach,1,15
+evening,Sheepshead Bay,1,15
+afternoon,Crotona Park East,1,15
+afternoon,Norwood,1,14
+morning,Queens Village,1,14
+evening,Crotona Park East,1,14
+afternoon,Madison,1,14
+afternoon,Glendale,1,14
+midnight,Co-Op City,1,14
+afternoon,Springfield Gardens North,1,14
+evening,Claremont/Bathgate,1,14
+evening,Soundview/Castle Hill,1,14
+afternoon,Glen Oaks,1,13
+afternoon,Jamaica Estates,1,13
+evening,Van Cortlandt Park,1,13
+afternoon,Marble Hill,1,13
+morning,Bayside,1,13
+midnight,Murray Hill-Queens,1,13
+evening,Allerton/Pelham Gardens,1,13
+evening,Manhattan Beach,1,13
+afternoon,East New York/Pennsylvania Avenue,1,12
+afternoon,Mount Hope,1,12
+midnight,Bath Beach,1,12
+afternoon,Schuylerville/Edgewater Park,1,12
+evening,Bath Beach,1,12
+afternoon,East Flushing,1,12
+afternoon,Co-Op City,1,12
+morning,Howard Beach,1,12
+midnight,Howard Beach,1,12
+morning,Glendale,1,12
+midnight,Madison,1,12
+evening,Bensonhurst East,1,12
+midnight,Riverdale/North Riverdale/Fieldston,1,12
+midnight,Laurelton,1,12
+afternoon,Kingsbridge Heights,1,12
+afternoon,Bayside,1,12
+morning,Belmont,1,12
+afternoon,Rosedale,1,12
+evening,Jamaica Estates,1,11
+midnight,East Flushing,1,11
+afternoon,Bensonhurst West,1,11
+morning,Fordham South,1,11
+afternoon,Ozone Park,1,11
+evening,Woodlawn/Wakefield,1,11
+midnight,West Brighton,1,11
+afternoon,Fresh Meadows,1,11
+evening,Murray Hill-Queens,1,10
+afternoon,Dyker Heights,1,10
+morning,Saint Albans,1,10
+midnight,Saint Albans,1,10
+afternoon,Bronx Park,1,10
+midnight,Glen Oaks,1,10
+midnight,Oakland Gardens,1,10
+midnight,Coney Island,1,10
+afternoon,Longwood,1,10
+evening,Hillcrest/Pomonok,1,10
+evening,Bellerose,1,10
+afternoon,Sunset Park East,1,10
+evening,Grymes Hill/Clifton,1,10
+morning,Fresh Meadows,1,9
+afternoon,Allerton/Pelham Gardens,1,9
+afternoon,Douglaston,1,9
+evening,Douglaston,1,9
+evening,Inwood Hill Park,1,9
+evening,College Point,1,9
+morning,Manhattan Beach,1,9
+morning,Woodlawn/Wakefield,1,9
+afternoon,Forest Park/Highland Park,1,9
+evening,Queens Village,1,9
+midnight,Eastchester,1,9
+evening,Fresh Meadows,1,9
+evening,Rosedale,1,9
+midnight,Van Cortlandt Park,1,9
+evening,Willets Point,1,9
+midnight,Bronxdale,1,9
+afternoon,Van Cortlandt Village,1,9
+midnight,Pelham Bay,1,9
+midnight,Bay Terrace/Fort Totten,1,8
+morning,Co-Op City,1,8
+morning,Arrochar/Fort Wadsworth,1,8
+evening,Cambria Heights,1,8
+afternoon,Bath Beach,1,8
+afternoon,Saint Albans,1,8
+evening,Madison,1,8
+morning,Murray Hill-Queens,1,7
+afternoon,Arrochar/Fort Wadsworth,1,7
+midnight,Auburndale,1,7
+afternoon,Oakland Gardens,1,7
+midnight,Marine Park/Floyd Bennett Field,1,7
+evening,Saint Albans,1,7
+morning,Auburndale,1,7
+afternoon,Auburndale,1,7
+midnight,Manhattan Beach,1,7
+morning,Forest Park/Highland Park,1,7
+afternoon,Highbridge Park,1,7
+afternoon,Woodlawn/Wakefield,1,6
+morning,Schuylerville/Edgewater Park,1,6
+evening,East Flushing,1,6
+morning,Dyker Heights,1,6
+morning,Allerton/Pelham Gardens,1,6
+afternoon,Marine Park/Floyd Bennett Field,1,6
+midnight,Hollis,1,6
+morning,Hammels/Arverne,1,6
+afternoon,Bronxdale,1,6
+afternoon,Belmont,1,6
+morning,East Flushing,1,6
+morning,Glen Oaks,1,6
+midnight,Douglaston,1,6
+evening,Starrett City,1,6
+morning,Marine Park/Mill Basin,1,6
+afternoon,Green-Wood Cemetery,1,6
+afternoon,Manhattan Beach,1,5
+evening,Springfield Gardens North,1,5
+evening,Eastchester,1,5
+afternoon,Pelham Parkway,1,5
+evening,Rockaway Park,1,5
+morning,Bronxdale,1,5
+evening,Hammels/Arverne,1,5
+afternoon,West Farms/Bronx River,1,5
+evening,Bronxdale,1,5
+afternoon,Bay Terrace/Fort Totten,1,5
+morning,Eastchester,1,5
+midnight,Bronx Park,1,5
+evening,Forest Park/Highland Park,1,5
+evening,Arrochar/Fort Wadsworth,1,5
+morning,Starrett City,1,5
+morning,Bellerose,1,5
+evening,Bay Terrace/Fort Totten,1,5
+morning,Douglaston,1,5
+morning,Hollis,1,5
+afternoon,Cambria Heights,1,5
+midnight,Rosedale,1,5
+morning,Cambria Heights,1,4
+evening,Green-Wood Cemetery,1,4
+afternoon,Williamsbridge/Olinville,1,4
+evening,Saint George/New Brighton,1,4
+evening,Pelham Bay,1,4
+evening,Bloomfield/Emerson Hill,1,4
+midnight,Allerton/Pelham Gardens,1,4
+evening,Auburndale,1,4
+afternoon,Fordham South,1,4
+evening,Marine Park/Floyd Bennett Field,1,4
+afternoon,Starrett City,1,4
+morning,Highbridge Park,1,4
+midnight,Whitestone,1,4
+morning,Far Rockaway,1,4
+afternoon,Van Cortlandt Park,1,4
+afternoon,Willets Point,1,4
+afternoon,Far Rockaway,1,4
+evening,Bronx Park,1,4
+morning,Marine Park/Floyd Bennett Field,1,4
+midnight,Inwood Hill Park,1,4
+midnight,Mariners Harbor,1,4
+midnight,Forest Park/Highland Park,1,4
+midnight,Far Rockaway,1,4
+morning,Green-Wood Cemetery,1,3
+afternoon,Laurelton,1,3
+evening,Mariners Harbor,1,3
+midnight,Crotona Park,1,3
+midnight,South Beach/Dongan Hills,1,3
+evening,Hollis,1,3
+morning,Bronx Park,1,3
+midnight,Hammels/Arverne,1,3
+afternoon,Jamaica Bay,1,3
+evening,Oakland Gardens,1,3
+midnight,Green-Wood Cemetery,1,3
+evening,Glen Oaks,1,3
+morning,Rosedale,1,3
+evening,Port Richmond,1,3
+midnight,Starrett City,1,3
+morning,Bay Terrace/Fort Totten,1,3
+evening,Far Rockaway,1,3
+afternoon,Bloomfield/Emerson Hill,1,3
+morning,Van Cortlandt Park,1,3
+afternoon,Hollis,1,2
+midnight,Port Richmond,1,2
+midnight,Bloomfield/Emerson Hill,1,2
+midnight,New Dorp/Midland Beach,1,2
+afternoon,Governor's Island/Ellis Island/Liberty Island,1,2
+morning,Jamaica Bay,1,2
+midnight,City Island,1,2
+afternoon,Pelham Bay Park,1,2
+afternoon,Hammels/Arverne,1,2
+morning,Saint George/New Brighton,1,2
+evening,South Beach/Dongan Hills,1,2
+evening,Laurelton,1,2
+afternoon,Eastchester,1,2
+evening,Arden Heights,1,2
+evening,Pelham Bay Park,1,2
+morning,Willets Point,1,2
+morning,Laurelton,1,2
+evening,Jamaica Bay,1,2
+midnight,Great Kills,1,2
+morning,Eltingville/Annadale/Prince's Bay,1,2
+midnight,Westerleigh,1,2
+morning,Country Club,1,1
+morning,New Dorp/Midland Beach,1,1
+midnight,Country Club,1,1
+afternoon,Broad Channel,1,1
+morning,Pelham Bay,1,1
+midnight,Oakwood,1,1
+evening,Country Club,1,1
+morning,Bloomfield/Emerson Hill,1,1
+evening,Eltingville/Annadale/Prince's Bay,1,1
+evening,Oakwood,1,1
+afternoon,Mariners Harbor,1,1
+evening,Governor's Island/Ellis Island/Liberty Island,1,1
+afternoon,Pelham Bay,1,1
+afternoon,Westerleigh,1,1
+midnight,Heartland Village/Todt Hill,1,1
+morning,Rockaway Park,1,1
+midnight,Rockaway Park,1,1
+evening,City Island,1,1
+midnight,Cambria Heights,1,1
+evening,New Dorp/Midland Beach,1,1
+evening,Great Kills Park,1,1
+evening,Broad Channel,1,1
+midnight,Grymes Hill/Clifton,1,1
+midnight,Stapleton,1,1
+morning,Governor's Island/Ellis Island/Liberty Island,1,1
+afternoon,Rossville/Woodrow,1,1
+morning,Pelham Bay Park,1,1
+morning,Oakland Gardens,1,1
+morning,Heartland Village/Todt Hill,1,1
+midnight,Saint George/New Brighton,1,1
+afternoon,Rockaway Park,1,1
+morning,Mariners Harbor,1,1
+afternoon,Upper East Side South,2,138233
+evening,Midtown Center,2,133090
+afternoon,Upper East Side North,2,129832
+afternoon,Midtown Center,2,128599
+evening,Times Sq/Theatre District,2,128182
+evening,Union Sq,2,123439
+evening,Midtown East,2,117503
+evening,East Village,2,110672
+evening,Penn Station/Madison Sq West,2,105727
+morning,Upper East Side North,2,103021
+afternoon,Union Sq,2,102271
+afternoon,Midtown East,2,100671
+evening,Lincoln Square East,2,100572
+morning,Penn Station/Madison Sq West,2,100397
+evening,Clinton East,2,99691
+evening,Upper East Side South,2,99636
+evening,Murray Hill,2,97043
+afternoon,Penn Station/Madison Sq West,2,94245
+morning,Upper East Side South,2,93668
+evening,Midtown North,2,90059
+afternoon,Murray Hill,2,89584
+afternoon,Upper West Side South,2,86713
+afternoon,Times Sq/Theatre District,2,86472
+afternoon,Lincoln Square East,2,85488
+midnight,East Village,2,84297
+afternoon,Midtown North,2,84118
+evening,West Village,2,82596
+morning,Murray Hill,2,82267
+evening,Upper East Side North,2,80084
+evening,Gramercy,2,80000
+evening,Midtown South,2,79240
+evening,East Chelsea,2,75362
+evening,LaGuardia Airport,2,74665
+morning,Clinton East,2,73956
+morning,Midtown East,2,70864
+evening,JFK Airport,2,69481
+evening,Upper West Side South,2,69417
+afternoon,LaGuardia Airport,2,69156
+afternoon,JFK Airport,2,66986
+afternoon,Midtown South,2,66879
+morning,Midtown Center,2,65324
+afternoon,Lenox Hill West,2,64191
+afternoon,Clinton East,2,63965
+evening,TriBeCa/Civic Center,2,63938
+morning,Lenox Hill West,2,63640
+afternoon,Upper West Side North,2,62815
+afternoon,East Chelsea,2,62690
+evening,Flatiron,2,62356
+evening,Lenox Hill West,2,61513
+morning,Upper West Side South,2,60947
+evening,Sutton Place/Turtle Bay North,2,60694
+midnight,Lower East Side,2,60068
+evening,Greenwich Village North,2,59915
+evening,Garment District,2,58568
+morning,Times Sq/Theatre District,2,58265
+morning,Lincoln Square East,2,57723
+afternoon,Gramercy,2,57666
+evening,Greenwich Village South,2,57294
+morning,Gramercy,2,56846
+morning,Union Sq,2,56491
+morning,Upper West Side North,2,55503
+morning,Garment District,2,55488
+afternoon,Garment District,2,54617
+afternoon,Flatiron,2,54537
+afternoon,TriBeCa/Civic Center,2,52687
+afternoon,West Chelsea/Hudson Yards,2,52455
+morning,Lenox Hill East,2,52378
+afternoon,Lenox Hill East,2,52085
+afternoon,East Village,2,51801
+afternoon,Central Park,2,51785
+evening,Lower East Side,2,51750
+evening,NV,2,51126
+morning,Sutton Place/Turtle Bay North,2,48473
+afternoon,Greenwich Village North,2,48088
+evening,Yorkville West,2,47836
+afternoon,Yorkville West,2,47819
+afternoon,NV,2,47644
+morning,East Chelsea,2,47364
+morning,Midtown North,2,47019
+morning,Yorkville West,2,46847
+evening,Upper West Side North,2,46380
+evening,Little Italy/NoLiTa,2,46003
+midnight,Clinton East,2,45932
+afternoon,Sutton Place/Turtle Bay North,2,45840
+afternoon,West Village,2,45721
+morning,Midtown South,2,44967
+morning,Yorkville East,2,44842
+morning,LaGuardia Airport,2,44818
+morning,East Village,2,44701
+midnight,West Village,2,43262
+morning,Flatiron,2,41245
+morning,TriBeCa/Civic Center,2,40490
+evening,West Chelsea/Hudson Yards,2,40023
+evening,UN/Turtle Bay South,2,39692
+evening,Lenox Hill East,2,39651
+midnight,Times Sq/Theatre District,2,39356
+evening,Meatpacking/West Village West,2,37792
+evening,Kips Bay,2,37757
+morning,West Village,2,37278
+morning,Greenwich Village North,2,37209
+midnight,Greenwich Village South,2,35194
+morning,NV,2,34736
+afternoon,Lincoln Square West,2,34719
+afternoon,Yorkville East,2,34695
+afternoon,UN/Turtle Bay South,2,34524
+morning,JFK Airport,2,33740
+morning,Kips Bay,2,33712
+morning,Lincoln Square West,2,33379
+midnight,East Chelsea,2,33350
+morning,UN/Turtle Bay South,2,32780
+midnight,Union Sq,2,32174
+afternoon,Kips Bay,2,32025
+evening,SoHo,2,31561
+midnight,Midtown South,2,31263
+afternoon,Greenwich Village South,2,30721
+morning,West Chelsea/Hudson Yards,2,29535
+afternoon,Little Italy/NoLiTa,2,28725
+morning,Central Park,2,28396
+evening,Central Park,2,28216
+afternoon,Battery Park City,2,28190
+afternoon,SoHo,2,28109
+afternoon,Manhattan Valley,2,27817
+afternoon,Meatpacking/West Village West,2,27470
+morning,Battery Park City,2,27419
+midnight,Gramercy,2,26224
+morning,Manhattan Valley,2,25977
+midnight,Meatpacking/West Village West,2,25262
+evening,Lincoln Square West,2,25134
+evening,Financial District North,2,25101
+afternoon,Clinton West,2,25056
+morning,Clinton West,2,24082
+midnight,Penn Station/Madison Sq West,2,23780
+evening,Battery Park City,2,23730
+midnight,Little Italy/NoLiTa,2,23515
+midnight,Murray Hill,2,23147
+evening,Clinton West,2,23120
+evening,Yorkville East,2,22856
+evening,Hudson Sq,2,21541
+morning,Meatpacking/West Village West,2,20970
+afternoon,Financial District North,2,20876
+midnight,Midtown Center,2,20796
+midnight,Flatiron,2,20486
+evening,Manhattan Valley,2,20476
+midnight,Midtown North,2,20440
+afternoon,Lower East Side,2,20313
+midnight,Midtown East,2,19978
+afternoon,World Trade Center,2,19956
+morning,East Harlem South,2,19800
+midnight,TriBeCa/Civic Center,2,19794
+afternoon,East Harlem South,2,18697
+afternoon,Hudson Sq,2,18520
+midnight,Garment District,2,18408
+midnight,NV,2,18371
+afternoon,Morningside Heights,2,17345
+morning,Greenwich Village South,2,17002
+morning,Financial District North,2,16426
+midnight,West Chelsea/Hudson Yards,2,16385
+midnight,Lenox Hill West,2,16021
+midnight,JFK Airport,2,15863
+evening,Morningside Heights,2,15585
+midnight,Sutton Place/Turtle Bay North,2,15548
+midnight,Yorkville West,2,15114
+evening,World Trade Center,2,15080
+midnight,Greenwich Village North,2,14897
+midnight,Lincoln Square East,2,13918
+morning,Lower East Side,2,13846
+evening,Financial District South,2,13843
+evening,East Harlem South,2,13843
+morning,Little Italy/NoLiTa,2,13146
+morning,Morningside Heights,2,13099
+midnight,Upper West Side South,2,12755
+morning,SoHo,2,12657
+afternoon,Financial District South,2,11749
+morning,Hudson Sq,2,11635
+morning,Stuy Town/Peter Cooper Village,2,11473
+midnight,Kips Bay,2,11411
+midnight,Upper East Side South,2,11219
+midnight,Clinton West,2,10588
+morning,World Trade Center,2,10369
+morning,East Harlem North,2,9781
+midnight,Upper West Side North,2,9587
+evening,Central Harlem,2,9566
+morning,Central Harlem,2,9509
+midnight,SoHo,2,9426
+afternoon,Central Harlem,2,9108
+morning,Bloomingdale,2,8788
+afternoon,East Harlem North,2,8738
+midnight,Hudson Sq,2,8736
+midnight,Upper East Side North,2,8600
+evening,East Harlem North,2,8583
+afternoon,Bloomingdale,2,8369
+evening,Alphabet City,2,7974
+midnight,Alphabet City,2,7758
+evening,Chinatown,2,7441
+midnight,UN/Turtle Bay South,2,7421
+evening,Bloomingdale,2,7340
+midnight,Lenox Hill East,2,7101
+afternoon,Stuy Town/Peter Cooper Village,2,6998
+evening,Seaport,2,6909
+afternoon,Chinatown,2,6805
+evening,Two Bridges/Seward Park,2,6600
+morning,Alphabet City,2,6357
+morning,Financial District South,2,6339
+midnight,Financial District North,2,6241
+morning,Sunnyside,2,6183
+evening,Stuy Town/Peter Cooper Village,2,6166
+midnight,Two Bridges/Seward Park,2,5577
+midnight,Williamsburg (North Side),2,5391
+midnight,East Harlem South,2,5389
+midnight,LaGuardia Airport,2,5291
+midnight,Williamsburg (South Side),2,5287
+evening,Park Slope,2,5069
+midnight,Astoria,2,5065
+morning,Central Harlem North,2,4945
+morning,Astoria,2,4939
+afternoon,Seaport,2,4899
+evening,Williamsburg (North Side),2,4830
+midnight,Morningside Heights,2,4649
+midnight,East Harlem North,2,4469
+midnight,Manhattan Valley,2,4419
+evening,Fort Greene,2,4318
+afternoon,Alphabet City,2,4314
+evening,Downtown Brooklyn/MetroTech,2,4296
+midnight,Yorkville East,2,4195
+evening,Williamsburg (South Side),2,4142
+midnight,Central Harlem,2,4123
+evening,Central Harlem North,2,4019
+afternoon,Two Bridges/Seward Park,2,3910
+midnight,Lincoln Square West,2,3754
+morning,Chinatown,2,3712
+evening,Boerum Hill,2,3706
+afternoon,Sunnyside,2,3698
+morning,Brooklyn Heights,2,3696
+morning,Hamilton Heights,2,3656
+afternoon,Central Harlem North,2,3617
+evening,Astoria,2,3506
+midnight,Financial District South,2,3500
+morning,Seaport,2,3453
+midnight,Sunnyside,2,3451
+evening,Long Island City/Hunters Point,2,3433
+morning,Downtown Brooklyn/MetroTech,2,3423
+midnight,Central Park,2,3383
+morning,Washington Heights South,2,3341
+evening,Hamilton Heights,2,3331
+midnight,Chinatown,2,3283
+midnight,World Trade Center,2,3150
+afternoon,Astoria,2,3133
+afternoon,Downtown Brooklyn/MetroTech,2,3092
+evening,Sunnyside,2,3054
+morning,Two Bridges/Seward Park,2,3040
+afternoon,Long Island City/Hunters Point,2,2977
+evening,Manhattanville,2,2931
+evening,Brooklyn Heights,2,2916
+midnight,Battery Park City,2,2902
+midnight,East Williamsburg,2,2869
+midnight,Bloomingdale,2,2863
+afternoon,Manhattanville,2,2764
+morning,Cobble Hill,2,2750
+midnight,Park Slope,2,2747
+morning,Long Island City/Queens Plaza,2,2709
+midnight,Stuy Town/Peter Cooper Village,2,2692
+morning,Manhattanville,2,2676
+evening,Washington Heights South,2,2541
+evening,Long Island City/Queens Plaza,2,2529
+afternoon,Hamilton Heights,2,2499
+afternoon,Long Island City/Queens Plaza,2,2492
+morning,Carroll Gardens,2,2440
+midnight,Central Harlem North,2,2358
+morning,Steinway,2,2353
+morning,Woodside,2,2351
+afternoon,Washington Heights South,2,2255
+morning,Old Astoria,2,2255
+evening,Greenpoint,2,2223
+morning,Long Island City/Hunters Point,2,2212
+midnight,Long Island City/Queens Plaza,2,2196
+midnight,Hamilton Heights,2,2178
+morning,Boerum Hill,2,2142
+midnight,Long Island City/Hunters Point,2,2107
+afternoon,Boerum Hill,2,2100
+midnight,Fort Greene,2,2096
+midnight,Greenpoint,2,2077
+midnight,Boerum Hill,2,2027
+midnight,Seaport,2,2019
+afternoon,Brooklyn Heights,2,2009
+evening,East Williamsburg,2,1954
+morning,Queensbridge/Ravenswood,2,1906
+midnight,Bushwick South,2,1863
+midnight,Jackson Heights,2,1840
+afternoon,Battery Park,2,1745
+morning,Park Slope,2,1723
+midnight,Downtown Brooklyn/MetroTech,2,1681
+morning,Jackson Heights,2,1674
+evening,Clinton Hill,2,1607
+midnight,Woodside,2,1599
+afternoon,Park Slope,2,1577
+afternoon,Fort Greene,2,1499
+evening,Carroll Gardens,2,1489
+evening,Prospect Heights,2,1471
+afternoon,Williamsburg (North Side),2,1459
+evening,DUMBO/Vinegar Hill,2,1434
+morning,Fort Greene,2,1399
+midnight,Washington Heights South,2,1364
+evening,NA,2,1360
+midnight,Manhattanville,2,1335
+afternoon,Old Astoria,2,1324
+evening,Cobble Hill,2,1291
+afternoon,Queensbridge/Ravenswood,2,1263
+midnight,Clinton Hill,2,1222
+midnight,Old Astoria,2,1205
+midnight,NA,2,1171
+evening,Bedford,2,1169
+evening,Old Astoria,2,1158
+midnight,Bedford,2,1158
+afternoon,Steinway,2,1128
+afternoon,Williamsburg (South Side),2,1124
+midnight,Steinway,2,1086
+midnight,Bushwick North,2,1075
+evening,Steinway,2,1075
+afternoon,Woodside,2,1046
+afternoon,Jackson Heights,2,1032
+morning,DUMBO/Vinegar Hill,2,1029
+midnight,Elmhurst,2,1026
+afternoon,DUMBO/Vinegar Hill,2,980
+midnight,Prospect Heights,2,951
+afternoon,Cobble Hill,2,931
+midnight,Brooklyn Heights,2,916
+midnight,Crown Heights North,2,913
+evening,Jackson Heights,2,907
+evening,Bushwick South,2,872
+evening,Woodside,2,866
+morning,Elmhurst,2,840
+afternoon,Carroll Gardens,2,829
+morning,NA,2,800
+afternoon,NA,2,799
+afternoon,Greenpoint,2,775
+evening,Crown Heights North,2,762
+evening,Washington Heights North,2,761
+midnight,Queensbridge/Ravenswood,2,738
+midnight,Carroll Gardens,2,736
+morning,Williamsburg (South Side),2,732
+morning,Williamsburg (North Side),2,731
+evening,Queensbridge/Ravenswood,2,673
+evening,Gowanus,2,656
+afternoon,Baisley Park,2,642
+morning,Forest Hills,2,586
+midnight,Stuyvesant Heights,2,570
+morning,West Concourse,2,555
+midnight,Gowanus,2,547
+afternoon,Mott Haven/Port Morris,2,537
+afternoon,Clinton Hill,2,532
+morning,Greenpoint,2,532
+morning,Battery Park,2,516
+morning,Clinton Hill,2,509
+midnight,Cobble Hill,2,494
+midnight,Mott Haven/Port Morris,2,481
+afternoon,East Williamsburg,2,463
+midnight,Washington Heights North,2,459
+evening,Battery Park,2,438
+morning,Washington Heights North,2,438
+afternoon,Flushing Meadows-Corona Park,2,433
+afternoon,West Concourse,2,424
+evening,South Williamsburg,2,416
+afternoon,Elmhurst,2,409
+midnight,Elmhurst/Maspeth,2,407
+afternoon,Washington Heights North,2,406
+evening,West Concourse,2,398
+morning,Mott Haven/Port Morris,2,393
+evening,Elmhurst,2,391
+midnight,South Williamsburg,2,388
+evening,Inwood,2,387
+evening,Mott Haven/Port Morris,2,380
+afternoon,East Elmhurst,2,374
+midnight,Forest Hills,2,371
+midnight,Prospect-Lefferts Gardens,2,371
+afternoon,Prospect Heights,2,359
+morning,Prospect Heights,2,352
+morning,Elmhurst/Maspeth,2,346
+evening,Prospect-Lefferts Gardens,2,343
+evening,Baisley Park,2,342
+evening,Stuyvesant Heights,2,339
+morning,East Elmhurst,2,336
+morning,Saint Michaels Cemetery/Woodside,2,328
+evening,Bushwick North,2,320
+morning,Crown Heights North,2,312
+midnight,DUMBO/Vinegar Hill,2,304
+afternoon,Bedford,2,302
+midnight,Flatbush/Ditmas Park,2,300
+afternoon,Newark Airport,2,298
+morning,Prospect-Lefferts Gardens,2,297
+morning,Bedford,2,295
+afternoon,Crown Heights North,2,292
+midnight,Sunset Park West,2,290
+afternoon,Gowanus,2,290
+morning,East Williamsburg,2,289
+afternoon,Jamaica,2,284
+midnight,West Concourse,2,280
+morning,Sunset Park West,2,279
+morning,Baisley Park,2,276
+afternoon,South Jamaica,2,275
+midnight,Inwood,2,274
+afternoon,Forest Hills,2,259
+morning,Cypress Hills,2,250
+morning,Rego Park,2,246
+evening,East Elmhurst,2,244
+evening,Sunset Park West,2,243
+evening,Flushing Meadows-Corona Park,2,234
+afternoon,Elmhurst/Maspeth,2,230
+morning,Gowanus,2,227
+morning,Flatbush/Ditmas Park,2,217
+evening,Forest Hills,2,215
+morning,Flushing Meadows-Corona Park,2,212
+evening,Flatbush/Ditmas Park,2,208
+afternoon,Prospect-Lefferts Gardens,2,193
+morning,Inwood,2,193
+midnight,Ridgewood,2,190
+evening,Elmhurst/Maspeth,2,187
+afternoon,Briarwood/Jamaica Hills,2,183
+afternoon,South Ozone Park,2,183
+afternoon,Randalls Island,2,181
+morning,Columbia Street,2,171
+afternoon,Bushwick South,2,170
+afternoon,Inwood,2,170
+morning,Bushwick South,2,169
+midnight,Rego Park,2,169
+evening,Roosevelt Island,2,164
+morning,Kensington,2,163
+afternoon,Saint Michaels Cemetery/Woodside,2,161
+afternoon,Springfield Gardens South,2,158
+midnight,East Elmhurst,2,155
+afternoon,Kew Gardens,2,155
+morning,Newark Airport,2,152
+midnight,Melrose South,2,148
+evening,Rego Park,2,147
+morning,Briarwood/Jamaica Hills,2,146
+midnight,North Corona,2,146
+evening,Columbia Street,2,141
+evening,Kensington,2,141
+evening,Crown Heights South,2,141
+midnight,Bay Ridge,2,140
+midnight,Crown Heights South,2,136
+afternoon,Flatbush/Ditmas Park,2,133
+evening,Red Hook,2,131
+afternoon,Rego Park,2,131
+morning,Melrose South,2,131
+evening,Melrose South,2,128
+morning,East Concourse/Concourse Village,2,126
+midnight,Kensington,2,123
+afternoon,Flushing,2,119
+evening,Windsor Terrace,2,119
+evening,East Concourse/Concourse Village,2,119
+afternoon,Cypress Hills,2,119
+morning,Stuyvesant Heights,2,119
+afternoon,Roosevelt Island,2,118
+evening,Brooklyn Navy Yard,2,118
+evening,Jamaica,2,118
+afternoon,South Williamsburg,2,112
+morning,Jamaica,2,109
+afternoon,Sunset Park West,2,109
+morning,South Jamaica,2,108
+midnight,East Concourse/Concourse Village,2,108
+evening,Briarwood/Jamaica Hills,2,107
+evening,Prospect Park,2,107
+evening,Springfield Gardens South,2,107
+evening,Randalls Island,2,107
+evening,South Jamaica,2,107
+afternoon,Maspeth,2,106
+afternoon,Red Hook,2,105
+afternoon,Melrose South,2,103
+evening,South Ozone Park,2,102
+afternoon,Richmond Hill,2,102
+morning,Bushwick North,2,101
+afternoon,Corona,2,97
+afternoon,Kensington,2,95
+afternoon,Stuyvesant Heights,2,95
+morning,Kew Gardens,2,93
+morning,South Ozone Park,2,91
+afternoon,Brooklyn Navy Yard,2,91
+evening,Maspeth,2,90
+midnight,Erasmus,2,88
+afternoon,Prospect Park,2,88
+midnight,Maspeth,2,88
+evening,Kew Gardens,2,87
+evening,Bay Ridge,2,87
+morning,Red Hook,2,86
+midnight,Windsor Terrace,2,86
+afternoon,Ocean Parkway South,2,86
+evening,East New York,2,85
+midnight,Flushing,2,83
+midnight,Briarwood/Jamaica Hills,2,83
+midnight,Battery Park,2,82
+morning,Roosevelt Island,2,82
+midnight,Prospect Park,2,82
+midnight,Roosevelt Island,2,81
+evening,Corona,2,78
+evening,Ridgewood,2,78
+afternoon,Columbia Street,2,78
+afternoon,East Concourse/Concourse Village,2,77
+morning,Windsor Terrace,2,76
+midnight,Baisley Park,2,76
+morning,Randalls Island,2,75
+morning,Flushing,2,74
+morning,Highbridge,2,74
+midnight,Corona,2,73
+midnight,East New York,2,73
+morning,North Corona,2,72
+morning,Springfield Gardens South,2,72
+evening,Spuyten Duyvil/Kingsbridge,2,72
+midnight,Flushing Meadows-Corona Park,2,71
+midnight,Morrisania/Melrose,2,71
+midnight,Ocean Hill,2,71
+morning,South Williamsburg,2,71
+morning,Kew Gardens Hills,2,69
+midnight,Spuyten Duyvil/Kingsbridge,2,69
+evening,Van Nest/Morris Park,2,68
+midnight,Mount Hope,2,68
+evening,Flushing,2,66
+morning,Maspeth,2,66
+evening,Richmond Hill,2,66
+evening,Erasmus,2,66
+midnight,Highbridge,2,66
+morning,Crown Heights South,2,66
+midnight,Columbia Street,2,65
+midnight,Kew Gardens,2,64
+midnight,Richmond Hill,2,64
+evening,Newark Airport,2,64
+evening,North Corona,2,62
+midnight,Jamaica,2,62
+afternoon,Borough Park,2,61
+midnight,University Heights/Morris Heights,2,61
+midnight,South Ozone Park,2,60
+afternoon,Spuyten Duyvil/Kingsbridge,2,60
+morning,Ocean Hill,2,59
+afternoon,Crown Heights South,2,59
+morning,Morrisania/Melrose,2,58
+morning,Prospect Park,2,58
+midnight,Saint Michaels Cemetery/Woodside,2,56
+evening,Morrisania/Melrose,2,56
+evening,Brownsville,2,55
+afternoon,Highbridge,2,55
+afternoon,Ocean Hill,2,54
+evening,Ocean Hill,2,52
+evening,Borough Park,2,51
+morning,Corona,2,51
+midnight,Red Hook,2,50
+morning,University Heights/Morris Heights,2,50
+morning,Richmond Hill,2,50
+afternoon,Bushwick North,2,49
+evening,Gravesend,2,48
+evening,University Heights/Morris Heights,2,47
+midnight,Flatlands,2,47
+midnight,Newark Airport,2,47
+afternoon,Bay Ridge,2,47
+midnight,Kingsbridge Heights,2,46
+morning,East New York,2,46
+midnight,Middle Village,2,46
+morning,Astoria Park,2,45
+morning,Borough Park,2,45
+afternoon,Windsor Terrace,2,44
+morning,Spuyten Duyvil/Kingsbridge,2,44
+morning,Erasmus,2,44
+evening,Homecrest,2,44
+afternoon,East New York,2,43
+midnight,Brownsville,2,43
+midnight,East New York/Pennsylvania Avenue,2,43
+morning,Homecrest,2,43
+midnight,Cypress Hills,2,43
+midnight,Hunts Point,2,42
+midnight,Longwood,2,41
+afternoon,Ridgewood,2,41
+morning,Midwood,2,41
+afternoon,Bensonhurst West,2,41
+morning,Brooklyn Navy Yard,2,41
+midnight,Borough Park,2,41
+afternoon,Kew Gardens Hills,2,40
+midnight,Bensonhurst West,2,40
+evening,East Tremont,2,39
+midnight,Soundview/Bruckner,2,39
+evening,Marble Hill,2,38
+evening,Highbridge,2,38
+midnight,Woodhaven,2,38
+midnight,East Flatbush/Remsen Village,2,38
+midnight,Kew Gardens Hills,2,38
+midnight,Canarsie,2,38
+afternoon,Canarsie,2,37
+midnight,Sunset Park East,2,37
+morning,Ridgewood,2,37
+midnight,South Jamaica,2,37
+afternoon,Middle Village,2,37
+evening,Canarsie,2,37
+afternoon,Gravesend,2,36
+morning,Flatlands,2,36
+midnight,East Flatbush/Farragut,2,36
+evening,Mount Hope,2,36
+afternoon,Morrisania/Melrose,2,35
+morning,Bedford Park,2,35
+morning,Soundview/Bruckner,2,35
+midnight,Soundview/Castle Hill,2,35
+evening,East Flatbush/Remsen Village,2,35
+afternoon,University Heights/Morris Heights,2,34
+midnight,Van Cortlandt Village,2,34
+midnight,Brooklyn Navy Yard,2,33
+morning,Bay Ridge,2,33
+morning,Brownsville,2,33
+evening,Flatlands,2,33
+evening,Claremont/Bathgate,2,32
+midnight,Norwood,2,32
+afternoon,Claremont/Bathgate,2,32
+midnight,Highbridge Park,2,32
+midnight,Midwood,2,32
+morning,Woodhaven,2,32
+evening,Middle Village,2,32
+midnight,Glendale,2,31
+morning,Middle Village,2,31
+midnight,West Farms/Bronx River,2,31
+afternoon,Midwood,2,30
+midnight,Homecrest,2,30
+afternoon,Van Nest/Morris Park,2,30
+midnight,Westchester Village/Unionport,2,30
+morning,Van Nest/Morris Park,2,29
+evening,East New York/Pennsylvania Avenue,2,29
+midnight,Randalls Island,2,29
+evening,Bensonhurst West,2,29
+afternoon,Astoria Park,2,29
+morning,Mount Hope,2,28
+evening,East Flatbush/Farragut,2,28
+midnight,Claremont/Bathgate,2,28
+afternoon,North Corona,2,28
+morning,Marble Hill,2,28
+morning,Queensboro Hill,2,27
+morning,Parkchester,2,27
+afternoon,Parkchester,2,27
+midnight,Van Nest/Morris Park,2,26
+midnight,Crotona Park East,2,26
+evening,Ocean Parkway South,2,26
+evening,Soundview/Bruckner,2,26
+morning,East Flatbush/Farragut,2,26
+morning,College Point,2,26
+midnight,Springfield Gardens South,2,25
+midnight,Ocean Parkway South,2,25
+evening,Van Cortlandt Village,2,25
+morning,Claremont/Bathgate,2,25
+midnight,Bedford Park,2,25
+evening,Midwood,2,25
+evening,Bedford Park,2,25
+morning,Sunset Park East,2,25
+evening,Whitestone,2,25
+evening,Longwood,2,24
+morning,East Flatbush/Remsen Village,2,24
+midnight,Parkchester,2,24
+afternoon,Brownsville,2,23
+midnight,East Tremont,2,23
+evening,Parkchester,2,23
+evening,Kingsbridge Heights,2,23
+morning,Brighton Beach,2,23
+afternoon,Bellerose,2,23
+morning,Kingsbridge Heights,2,23
+afternoon,Flatlands,2,23
+evening,Sunset Park East,2,23
+afternoon,Ozone Park,2,23
+evening,Pelham Parkway,2,22
+afternoon,Marble Hill,2,22
+midnight,Marble Hill,2,22
+evening,Kew Gardens Hills,2,22
+midnight,Bayside,2,22
+morning,Canarsie,2,22
+afternoon,Marine Park/Floyd Bennett Field,2,22
+morning,Van Cortlandt Village,2,21
+afternoon,Soundview/Bruckner,2,21
+afternoon,Erasmus,2,21
+afternoon,Howard Beach,2,21
+morning,Westchester Village/Unionport,2,21
+afternoon,Mount Hope,2,20
+afternoon,East New York/Pennsylvania Avenue,2,20
+afternoon,Glendale,2,20
+afternoon,Queens Village,2,20
+afternoon,Eastchester,2,20
+afternoon,Homecrest,2,20
+afternoon,Van Cortlandt Village,2,20
+midnight,Woodlawn/Wakefield,2,20
+midnight,Dyker Heights,2,20
+evening,Cypress Hills,2,20
+evening,Crotona Park East,2,20
+midnight,Schuylerville/Edgewater Park,2,20
+afternoon,Soundview/Castle Hill,2,20
+morning,Madison,2,19
+morning,Inwood Hill Park,2,19
+midnight,Pelham Parkway,2,19
+morning,Stapleton,2,19
+afternoon,Woodhaven,2,19
+evening,Soundview/Castle Hill,2,19
+afternoon,Kingsbridge Heights,2,19
+midnight,Van Cortlandt Park,2,19
+evening,Howard Beach,2,19
+evening,Green-Wood Cemetery,2,19
+afternoon,Bedford Park,2,18
+afternoon,Madison,2,18
+afternoon,Hillcrest/Pomonok,2,18
+evening,Inwood Hill Park,2,18
+evening,Highbridge Park,2,18
+morning,Sheepshead Bay,2,18
+afternoon,Jamaica Estates,2,18
+morning,Hillcrest/Pomonok,2,18
+evening,Norwood,2,18
+midnight,Belmont,2,18
+evening,Belmont,2,18
+evening,Madison,2,18
+afternoon,East Flatbush/Remsen Village,2,18
+morning,Queens Village,2,18
+morning,Bensonhurst West,2,18
+afternoon,Hunts Point,2,18
+midnight,Riverdale/North Riverdale/Fieldston,2,17
+evening,Ozone Park,2,17
+morning,Soundview/Castle Hill,2,17
+midnight,Fordham South,2,17
+morning,East Tremont,2,17
+evening,Astoria Park,2,17
+afternoon,Sunset Park East,2,17
+afternoon,Riverdale/North Riverdale/Fieldston,2,17
+morning,Longwood,2,17
+afternoon,Westchester Village/Unionport,2,17
+midnight,Hillcrest/Pomonok,2,17
+midnight,Arrochar/Fort Wadsworth,2,17
+morning,Bensonhurst East,2,17
+evening,Saint Michaels Cemetery/Woodside,2,17
+midnight,Fresh Meadows,2,17
+afternoon,Queensboro Hill,2,17
+midnight,Queens Village,2,16
+morning,Pelham Parkway,2,16
+morning,Glendale,2,16
+evening,Hunts Point,2,16
+midnight,Gravesend,2,16
+midnight,Coney Island,2,16
+morning,Norwood,2,16
+afternoon,Whitestone,2,16
+morning,Ocean Parkway South,2,16
+morning,Howard Beach,2,15
+afternoon,Bath Beach,2,15
+morning,Woodlawn/Wakefield,2,15
+afternoon,Fordham South,2,15
+midnight,Bronxdale,2,15
+evening,Marine Park/Mill Basin,2,15
+evening,Eastchester,2,15
+midnight,Bath Beach,2,15
+afternoon,Inwood Hill Park,2,15
+afternoon,Belmont,2,15
+midnight,Murray Hill-Queens,2,15
+midnight,Springfield Gardens North,2,15
+midnight,Co-Op City,2,15
+morning,Hunts Point,2,15
+evening,Westchester Village/Unionport,2,14
+evening,Fordham South,2,14
+afternoon,Norwood,2,14
+afternoon,Springfield Gardens North,2,14
+afternoon,Coney Island,2,14
+afternoon,East Tremont,2,14
+midnight,Queensboro Hill,2,14
+morning,Bath Beach,2,14
+evening,Sheepshead Bay,2,13
+midnight,Astoria Park,2,13
+morning,Whitestone,2,13
+afternoon,Fresh Meadows,2,13
+midnight,Rosedale,2,13
+midnight,Ozone Park,2,13
+morning,Co-Op City,2,13
+morning,Coney Island,2,13
+morning,Willets Point,2,13
+midnight,Bellerose,2,13
+evening,Springfield Gardens North,2,13
+evening,Glendale,2,13
+midnight,Williamsbridge/Olinville,2,13
+midnight,Madison,2,13
+afternoon,Dyker Heights,2,13
+afternoon,Marine Park/Mill Basin,2,12
+evening,Brighton Beach,2,12
+afternoon,East Flushing,2,12
+evening,West Farms/Bronx River,2,12
+afternoon,East Flatbush/Farragut,2,12
+afternoon,Co-Op City,2,12
+afternoon,Crotona Park East,2,12
+evening,Jamaica Estates,2,12
+evening,Coney Island,2,12
+morning,Schuylerville/Edgewater Park,2,12
+morning,Belmont,2,12
+evening,Woodhaven,2,12
+afternoon,College Point,2,12
+morning,Riverdale/North Riverdale/Fieldston,2,12
+midnight,Sheepshead Bay,2,11
+evening,College Point,2,11
+afternoon,Williamsbridge/Olinville,2,11
+evening,Riverdale/North Riverdale/Fieldston,2,11
+morning,Fordham South,2,11
+afternoon,Cambria Heights,2,11
+evening,Queensboro Hill,2,11
+afternoon,Rosedale,2,11
+evening,Queens Village,2,11
+midnight,Eastchester,2,11
+midnight,Auburndale,2,11
+evening,Dyker Heights,2,11
+afternoon,Bensonhurst East,2,11
+afternoon,Glen Oaks,2,11
+midnight,Howard Beach,2,10
+morning,Highbridge Park,2,10
+morning,Springfield Gardens North,2,10
+afternoon,Pelham Parkway,2,10
+morning,Murray Hill-Queens,2,10
+morning,Bellerose,2,10
+morning,Gravesend,2,10
+evening,Hillcrest/Pomonok,2,10
+morning,Rosedale,2,10
+midnight,College Point,2,10
+morning,Cambria Heights,2,10
+midnight,Bensonhurst East,2,10
+morning,East Flushing,2,10
+afternoon,Sheepshead Bay,2,9
+evening,Bensonhurst East,2,9
+midnight,Jamaica Estates,2,9
+afternoon,Schuylerville/Edgewater Park,2,9
+morning,Allerton/Pelham Gardens,2,9
+afternoon,Brighton Beach,2,9
+midnight,Marine Park/Mill Basin,2,9
+morning,East New York/Pennsylvania Avenue,2,9
+afternoon,Bayside,2,9
+midnight,Allerton/Pelham Gardens,2,9
+afternoon,Manhattan Beach,2,9
+morning,Bayside,2,9
+midnight,Pelham Bay,2,9
+evening,Woodlawn/Wakefield,2,9
+morning,Auburndale,2,9
+afternoon,Willets Point,2,9
+midnight,Brighton Beach,2,9
+evening,Marine Park/Floyd Bennett Field,2,9
+morning,Bronxdale,2,9
+morning,West Farms/Bronx River,2,8
+midnight,Manhattan Beach,2,8
+evening,Murray Hill-Queens,2,8
+evening,Schuylerville/Edgewater Park,2,8
+morning,Marine Park/Mill Basin,2,8
+afternoon,Laurelton,2,8
+midnight,Oakland Gardens,2,8
+evening,Co-Op City,2,8
+evening,Rosedale,2,8
+afternoon,Saint Albans,2,8
+evening,Van Cortlandt Park,2,7
+morning,Manhattan Beach,2,7
+afternoon,Starrett City,2,7
+morning,Ozone Park,2,7
+morning,Hollis,2,7
+midnight,Inwood Hill Park,2,7
+evening,Bayside,2,7
+afternoon,Longwood,2,7
+evening,Bath Beach,2,7
+midnight,Green-Wood Cemetery,2,7
+afternoon,Van Cortlandt Park,2,7
+morning,Glen Oaks,2,7
+morning,Dyker Heights,2,7
+afternoon,Bronx Park,2,7
+evening,Bronx Park,2,7
+midnight,Hollis,2,7
+morning,Williamsbridge/Olinville,2,7
+afternoon,West Farms/Bronx River,2,7
+midnight,Bloomfield/Emerson Hill,2,7
+evening,Williamsbridge/Olinville,2,6
+morning,Van Cortlandt Park,2,6
+morning,Jamaica Estates,2,6
+midnight,Glen Oaks,2,6
+evening,Cambria Heights,2,6
+afternoon,Arrochar/Fort Wadsworth,2,6
+afternoon,Highbridge Park,2,6
+morning,Arrochar/Fort Wadsworth,2,6
+evening,Starrett City,2,6
+morning,Crotona Park East,2,6
+evening,South Beach/Dongan Hills,2,6
+evening,Oakland Gardens,2,5
+morning,Far Rockaway,2,5
+evening,Auburndale,2,5
+evening,Willets Point,2,5
+evening,Bellerose,2,5
+afternoon,Douglaston,2,5
+afternoon,Westerleigh,2,5
+evening,Far Rockaway,2,5
+midnight,Cambria Heights,2,5
+afternoon,Oakland Gardens,2,5
+afternoon,Woodlawn/Wakefield,2,5
+evening,Pelham Bay,2,5
+morning,Forest Park/Highland Park,2,5
+evening,Bronxdale,2,5
+evening,Fresh Meadows,2,5
+evening,Stapleton,2,5
+morning,Bloomfield/Emerson Hill,2,5
+evening,Saint Albans,2,4
+midnight,South Beach/Dongan Hills,2,4
+midnight,Rockaway Park,2,4
+afternoon,Bronxdale,2,4
+morning,Bronx Park,2,4
+morning,Fresh Meadows,2,4
+morning,Laurelton,2,4
+afternoon,Forest Park/Highland Park,2,4
+morning,Oakland Gardens,2,4
+evening,Allerton/Pelham Gardens,2,4
+evening,Forest Park/Highland Park,2,4
+midnight,Saint Albans,2,4
+morning,Eastchester,2,4
+evening,Douglaston,2,4
+midnight,Great Kills,2,4
+midnight,Laurelton,2,4
+morning,Green-Wood Cemetery,2,3
+midnight,Bay Terrace/Fort Totten,2,3
+morning,Saint Albans,2,3
+afternoon,Auburndale,2,3
+midnight,Heartland Village/Todt Hill,2,3
+midnight,Forest Park/Highland Park,2,3
+morning,Bay Terrace/Fort Totten,2,3
+afternoon,Hammels/Arverne,2,3
+afternoon,Green-Wood Cemetery,2,3
+afternoon,Jamaica Bay,2,3
+afternoon,City Island,2,3
+afternoon,Bay Terrace/Fort Totten,2,3
+midnight,Douglaston,2,3
+evening,Eltingville/Annadale/Prince's Bay,2,3
+midnight,Hammels/Arverne,2,3
+midnight,Bronx Park,2,3
+midnight,West Brighton,2,3
+afternoon,Murray Hill-Queens,2,3
+afternoon,Heartland Village/Todt Hill,2,3
+evening,Rockaway Park,2,2
+afternoon,Allerton/Pelham Gardens,2,2
+midnight,Stapleton,2,2
+morning,West Brighton,2,2
+evening,Hammels/Arverne,2,2
+evening,Westerleigh,2,2
+midnight,Westerleigh,2,2
+midnight,Rossville/Woodrow,2,2
+evening,Hollis,2,2
+evening,Pelham Bay Park,2,2
+midnight,Whitestone,2,2
+morning,Marine Park/Floyd Bennett Field,2,2
+evening,City Island,2,2
+evening,Jamaica Bay,2,2
+midnight,Grymes Hill/Clifton,2,2
+morning,Mariners Harbor,2,2
+midnight,Starrett City,2,2
+morning,Pelham Bay,2,2
+evening,Arrochar/Fort Wadsworth,2,2
+evening,Saint George/New Brighton,2,2
+morning,Oakwood,2,2
+evening,Port Richmond,2,2
+evening,Bay Terrace/Fort Totten,2,2
+midnight,Far Rockaway,2,2
+midnight,Pelham Bay Park,2,2
+midnight,City Island,2,2
+midnight,New Dorp/Midland Beach,2,2
+morning,Breezy Point/Fort Tilden/Riis Beach,2,2
+afternoon,Mariners Harbor,2,1
+morning,Port Richmond,2,1
+afternoon,Eltingville/Annadale/Prince's Bay,2,1
+afternoon,Stapleton,2,1
+morning,Saint George/New Brighton,2,1
+midnight,Crotona Park,2,1
+afternoon,Governor's Island/Ellis Island/Liberty Island,2,1
+evening,Manhattan Beach,2,1
+midnight,Charleston/Tottenville,2,1
+midnight,Broad Channel,2,1
+afternoon,Hollis,2,1
+morning,Governor's Island/Ellis Island/Liberty Island,2,1
+midnight,East Flushing,2,1
+midnight,Marine Park/Floyd Bennett Field,2,1
+evening,Bloomfield/Emerson Hill,2,1
+afternoon,Bloomfield/Emerson Hill,2,1
+afternoon,Saint George/New Brighton,2,1
+evening,Rikers Island,2,1
+midnight,Governor's Island/Ellis Island/Liberty Island,2,1
+morning,Country Club,2,1
+evening,Laurelton,2,1
+evening,Charleston/Tottenville,2,1
+morning,Crotona Park,2,1
+midnight,Freshkills Park,2,1
+morning,Hammels/Arverne,2,1
+afternoon,Broad Channel,2,1
+afternoon,Country Club,2,1
+afternoon,Pelham Bay,2,1
+evening,Glen Oaks,2,1
+morning,Grymes Hill/Clifton,2,1
+afternoon,Rockaway Park,2,1
+afternoon,South Beach/Dongan Hills,2,1
+morning,Jamaica Bay,2,1
+afternoon,Far Rockaway,2,1
+morning,South Beach/Dongan Hills,2,1
+midnight,Country Club,2,1
+afternoon,New Dorp/Midland Beach,2,1
+evening,Crotona Park,2,1
+morning,Rockaway Park,2,1
+morning,New Dorp/Midland Beach,2,1
+morning,Westerleigh,2,1
+evening,West Brighton,2,1
+midnight,Willets Point,2,1
+evening,East Flushing,2,1
+evening,Mariners Harbor,2,1
+morning,Starrett City,2,1
+midnight,Saint George/New Brighton,2,1
+afternoon,Upper East Side South,3,150808
+evening,Times Sq/Theatre District,3,146455
+evening,Midtown Center,3,145936
+afternoon,Upper East Side North,3,140461
+evening,Union Sq,3,136346
+afternoon,Midtown Center,3,135698
+evening,Midtown East,3,130717
+evening,East Village,3,123070
+evening,Clinton East,3,119759
+evening,Penn Station/Madison Sq West,3,116532
+evening,Lincoln Square East,3,113718
+morning,Upper East Side North,3,113448
+evening,Murray Hill,3,113247
+evening,Upper East Side South,3,112610
+morning,Penn Station/Madison Sq West,3,111211
+afternoon,Midtown East,3,109502
+afternoon,Union Sq,3,108632
+morning,Upper East Side South,3,105202
+evening,Midtown North,3,103272
+afternoon,Penn Station/Madison Sq West,3,101209
+afternoon,Murray Hill,3,100428
+afternoon,Upper West Side South,3,96854
+morning,Murray Hill,3,95622
+evening,LaGuardia Airport,3,95347
+afternoon,Times Sq/Theatre District,3,95177
+afternoon,Lincoln Square East,3,93531
+evening,Gramercy,3,90593
+evening,JFK Airport,3,90470
+afternoon,Midtown North,3,90263
+evening,Upper East Side North,3,89776
+evening,Midtown South,3,89295
+afternoon,LaGuardia Airport,3,87792
+evening,West Village,3,86748
+midnight,East Village,3,85641
+morning,Clinton East,3,85057
+morning,Midtown East,3,83355
+evening,East Chelsea,3,82694
+evening,Upper West Side South,3,81589
+afternoon,JFK Airport,3,79293
+morning,Lenox Hill West,3,72387
+afternoon,Lenox Hill West,3,72041
+morning,Midtown Center,3,71994
+afternoon,Midtown South,3,71658
+afternoon,Clinton East,3,70639
+evening,Lenox Hill West,3,70574
+evening,Sutton Place/Turtle Bay North,3,69936
+evening,Flatiron,3,69597
+evening,TriBeCa/Civic Center,3,69011
+morning,Upper West Side South,3,68954
+morning,Times Sq/Theatre District,3,68583
+afternoon,Upper West Side North,3,67424
+morning,Lincoln Square East,3,66924
+afternoon,Gramercy,3,66233
+evening,Greenwich Village North,3,65475
+afternoon,East Chelsea,3,65320
+evening,Garment District,3,64932
+morning,Gramercy,3,64337
+morning,Union Sq,3,62709
+morning,Garment District,3,62592
+evening,NV,3,62163
+morning,Upper West Side North,3,61648
+evening,Greenwich Village South,3,60484
+morning,Lenox Hill East,3,60242
+afternoon,Lenox Hill East,3,59802
+midnight,Lower East Side,3,59301
+afternoon,Garment District,3,57582
+afternoon,Flatiron,3,57092
+afternoon,East Village,3,57006
+evening,Yorkville West,3,56169
+afternoon,NV,3,56048
+afternoon,TriBeCa/Civic Center,3,56001
+morning,Sutton Place/Turtle Bay North,3,55409
+morning,Midtown North,3,55278
+morning,East Chelsea,3,53992
+afternoon,Central Park,3,53869
+morning,Yorkville West,3,53778
+afternoon,Yorkville West,3,53468
+morning,LaGuardia Airport,3,53305
+evening,Lower East Side,3,52015
+afternoon,Sutton Place/Turtle Bay North,3,51888
+midnight,Clinton East,3,51729
+evening,Upper West Side North,3,51276
+afternoon,Greenwich Village North,3,50675
+morning,Midtown South,3,50538
+morning,Yorkville East,3,50420
+morning,East Village,3,50310
+afternoon,West Chelsea/Hudson Yards,3,48662
+midnight,Times Sq/Theatre District,3,48072
+evening,Little Italy/NoLiTa,3,47767
+afternoon,West Village,3,47532
+evening,UN/Turtle Bay South,3,47436
+evening,Lenox Hill East,3,47378
+morning,TriBeCa/Civic Center,3,45441
+morning,Flatiron,3,45359
+evening,Kips Bay,3,44403
+evening,West Chelsea/Hudson Yards,3,44026
+afternoon,UN/Turtle Bay South,3,43065
+midnight,West Village,3,42924
+morning,JFK Airport,3,42088
+morning,NV,3,41907
+morning,Greenwich Village North,3,41021
+morning,West Village,3,40725
+afternoon,Lincoln Square West,3,39951
+evening,Meatpacking/West Village West,3,39767
+morning,Kips Bay,3,39216
+morning,Lincoln Square West,3,38849
+morning,UN/Turtle Bay South,3,37921
+afternoon,Yorkville East,3,37862
+afternoon,Kips Bay,3,36927
+midnight,Greenwich Village South,3,35338
+midnight,Midtown South,3,34870
+afternoon,Clinton West,3,34752
+midnight,East Chelsea,3,34546
+midnight,Union Sq,3,33916
+morning,Central Park,3,33534
+morning,West Chelsea/Hudson Yards,3,33356
+evening,SoHo,3,32612
+evening,Central Park,3,32222
+morning,Battery Park City,3,32110
+evening,Clinton West,3,32009
+afternoon,Battery Park City,3,31588
+afternoon,Greenwich Village South,3,31019
+afternoon,Manhattan Valley,3,30597
+morning,Manhattan Valley,3,29594
+afternoon,Little Italy/NoLiTa,3,29427
+evening,Lincoln Square West,3,29333
+afternoon,Meatpacking/West Village West,3,29178
+morning,Clinton West,3,29012
+midnight,Gramercy,3,28553
+evening,Financial District North,3,28497
+midnight,Penn Station/Madison Sq West,3,28036
+evening,Battery Park City,3,27797
+afternoon,SoHo,3,27316
+midnight,Murray Hill,3,26077
+evening,Yorkville East,3,25488
+midnight,JFK Airport,3,24864
+morning,East Harlem South,3,24748
+midnight,Meatpacking/West Village West,3,24717
+morning,Meatpacking/West Village West,3,24071
+afternoon,Financial District North,3,23872
+midnight,Midtown Center,3,23824
+evening,Manhattan Valley,3,23763
+afternoon,East Harlem South,3,23704
+midnight,Little Italy/NoLiTa,3,23535
+midnight,Midtown North,3,23102
+afternoon,World Trade Center,3,22775
+midnight,Garment District,3,22763
+evening,Hudson Sq,3,21979
+midnight,Flatiron,3,21769
+midnight,Midtown East,3,21624
+midnight,NV,3,20950
+afternoon,Lower East Side,3,20640
+midnight,TriBeCa/Civic Center,3,20271
+morning,Financial District North,3,18931
+afternoon,Morningside Heights,3,18775
+morning,Greenwich Village South,3,18434
+afternoon,Hudson Sq,3,18105
+midnight,Sutton Place/Turtle Bay North,3,18098
+midnight,Lenox Hill West,3,17397
+evening,World Trade Center,3,17396
+midnight,Yorkville West,3,17369
+evening,East Harlem South,3,17298
+evening,Morningside Heights,3,16615
+midnight,West Chelsea/Hudson Yards,3,16300
+midnight,Lincoln Square East,3,16065
+evening,Financial District South,3,15784
+morning,Lower East Side,3,15483
+midnight,Greenwich Village North,3,15358
+morning,Morningside Heights,3,15322
+morning,SoHo,3,14232
+midnight,Upper West Side South,3,14223
+morning,East Harlem North,3,14031
+morning,Little Italy/NoLiTa,3,13560
+midnight,Kips Bay,3,13493
+afternoon,Financial District South,3,13447
+morning,Hudson Sq,3,13116
+morning,Central Harlem,3,12686
+morning,Stuy Town/Peter Cooper Village,3,12615
+morning,World Trade Center,3,12414
+midnight,Upper East Side South,3,12377
+midnight,Clinton West,3,11979
+evening,Central Harlem,3,11645
+afternoon,East Harlem North,3,11539
+afternoon,Central Harlem,3,11349
+evening,East Harlem North,3,11140
+morning,Bloomingdale,3,10363
+midnight,LaGuardia Airport,3,10345
+midnight,Hudson Sq,3,9698
+midnight,Upper West Side North,3,9371
+afternoon,Bloomingdale,3,9151
+midnight,SoHo,3,9106
+midnight,Upper East Side North,3,9051
+midnight,UN/Turtle Bay South,3,8987
+evening,Alphabet City,3,8850
+evening,Bloomingdale,3,8394
+morning,Sunnyside,3,8201
+morning,Financial District South,3,7807
+evening,Seaport,3,7780
+evening,Chinatown,3,7766
+midnight,Lenox Hill East,3,7757
+midnight,Alphabet City,3,7714
+morning,Alphabet City,3,7695
+afternoon,Stuy Town/Peter Cooper Village,3,7694
+evening,Two Bridges/Seward Park,3,7491
+morning,Central Harlem North,3,7224
+afternoon,Chinatown,3,7115
+evening,Stuy Town/Peter Cooper Village,3,7034
+evening,Park Slope,3,6971
+midnight,Financial District North,3,6921
+midnight,East Harlem South,3,6226
+morning,Astoria,3,6196
+midnight,Williamsburg (North Side),3,6182
+midnight,Astoria,3,5836
+evening,Williamsburg (North Side),3,5736
+midnight,Williamsburg (South Side),3,5602
+midnight,Two Bridges/Seward Park,3,5526
+afternoon,Seaport,3,5428
+evening,Fort Greene,3,5380
+afternoon,Alphabet City,3,5335
+midnight,East Harlem North,3,5285
+evening,Central Harlem North,3,5123
+evening,Downtown Brooklyn/MetroTech,3,4910
+afternoon,Sunnyside,3,4890
+midnight,Central Harlem,3,4878
+afternoon,Central Harlem North,3,4766
+midnight,Morningside Heights,3,4699
+morning,Hamilton Heights,3,4644
+evening,Williamsburg (South Side),3,4640
+midnight,Yorkville East,3,4633
+morning,Washington Heights South,3,4631
+afternoon,Two Bridges/Seward Park,3,4569
+morning,Seaport,3,4567
+midnight,Manhattan Valley,3,4545
+morning,Brooklyn Heights,3,4531
+evening,Long Island City/Hunters Point,3,4437
+evening,Boerum Hill,3,4375
+midnight,Lincoln Square West,3,4243
+midnight,Sunnyside,3,4137
+morning,Downtown Brooklyn/MetroTech,3,4129
+morning,Chinatown,3,4111
+afternoon,Long Island City/Hunters Point,3,4097
+evening,Astoria,3,3966
+midnight,Financial District South,3,3904
+afternoon,Astoria,3,3709
+evening,Sunnyside,3,3622
+evening,Brooklyn Heights,3,3611
+afternoon,Downtown Brooklyn/MetroTech,3,3577
+morning,Two Bridges/Seward Park,3,3541
+evening,Hamilton Heights,3,3534
+evening,Manhattanville,3,3473
+midnight,Battery Park City,3,3424
+morning,Cobble Hill,3,3409
+midnight,World Trade Center,3,3361
+midnight,Central Park,3,3276
+morning,Manhattanville,3,3253
+morning,Long Island City/Queens Plaza,3,3246
+morning,Long Island City/Hunters Point,3,3241
+midnight,East Williamsburg,3,3240
+midnight,Chinatown,3,3198
+morning,Steinway,3,3171
+midnight,Park Slope,3,3168
+morning,Carroll Gardens,3,3148
+afternoon,Manhattanville,3,3144
+evening,Washington Heights South,3,3085
+afternoon,Long Island City/Queens Plaza,3,3073
+evening,Long Island City/Queens Plaza,3,3049
+morning,Old Astoria,3,3004
+morning,Woodside,3,2933
+midnight,Bloomingdale,3,2933
+afternoon,Washington Heights South,3,2831
+midnight,Central Harlem North,3,2830
+afternoon,Hamilton Heights,3,2769
+midnight,Stuy Town/Peter Cooper Village,3,2724
+morning,Boerum Hill,3,2679
+midnight,Long Island City/Hunters Point,3,2607
+morning,Queensbridge/Ravenswood,3,2551
+afternoon,Brooklyn Heights,3,2519
+evening,Greenpoint,3,2510
+afternoon,Boerum Hill,3,2485
+midnight,Long Island City/Queens Plaza,3,2474
+midnight,Fort Greene,3,2462
+midnight,Greenpoint,3,2443
+morning,Park Slope,3,2370
+midnight,Hamilton Heights,3,2349
+midnight,Jackson Heights,3,2201
+midnight,Boerum Hill,3,2170
+midnight,Seaport,3,2155
+morning,Jackson Heights,3,2091
+evening,East Williamsburg,3,2068
+afternoon,Battery Park,3,1965
+afternoon,Park Slope,3,1962
+midnight,Bushwick South,3,1939
+morning,Fort Greene,3,1928
+afternoon,Fort Greene,3,1908
+evening,Clinton Hill,3,1904
+midnight,Downtown Brooklyn/MetroTech,3,1897
+evening,Carroll Gardens,3,1807
+midnight,Woodside,3,1774
+evening,NA,3,1761
+evening,Prospect Heights,3,1629
+midnight,Washington Heights South,3,1624
+afternoon,Old Astoria,3,1510
+afternoon,Queensbridge/Ravenswood,3,1507
+evening,DUMBO/Vinegar Hill,3,1504
+evening,Cobble Hill,3,1488
+evening,Bedford,3,1464
+midnight,NA,3,1458
+afternoon,Williamsburg (North Side),3,1458
+midnight,Manhattanville,3,1419
+midnight,Old Astoria,3,1386
+afternoon,Steinway,3,1355
+midnight,Clinton Hill,3,1354
+evening,Old Astoria,3,1281
+midnight,Steinway,3,1252
+midnight,Bedford,3,1247
+morning,DUMBO/Vinegar Hill,3,1244
+evening,Steinway,3,1228
+afternoon,Williamsburg (South Side),3,1195
+afternoon,Woodside,3,1187
+afternoon,Cobble Hill,3,1160
+midnight,Elmhurst,3,1142
+midnight,Bushwick North,3,1105
+afternoon,Jackson Heights,3,1077
+midnight,Brooklyn Heights,3,1041
+afternoon,DUMBO/Vinegar Hill,3,1040
+midnight,Crown Heights North,3,1025
+afternoon,Greenpoint,3,1002
+evening,Jackson Heights,3,985
+afternoon,Carroll Gardens,3,969
+evening,Bushwick South,3,959
+afternoon,NA,3,934
+morning,NA,3,929
+evening,Woodside,3,925
+midnight,Prospect Heights,3,924
+morning,Elmhurst,3,914
+afternoon,Baisley Park,3,910
+evening,Crown Heights North,3,907
+midnight,Queensbridge/Ravenswood,3,887
+evening,Queensbridge/Ravenswood,3,864
+morning,Williamsburg (South Side),3,845
+evening,Washington Heights North,3,844
+morning,Williamsburg (North Side),3,813
+evening,Gowanus,3,769
+midnight,Carroll Gardens,3,764
+morning,Greenpoint,3,727
+morning,Clinton Hill,3,725
+morning,West Concourse,3,717
+morning,Battery Park,3,645
+afternoon,Mott Haven/Port Morris,3,633
+morning,Forest Hills,3,625
+midnight,Mott Haven/Port Morris,3,622
+evening,Battery Park,3,612
+afternoon,West Concourse,3,610
+midnight,Gowanus,3,609
+afternoon,Clinton Hill,3,606
+midnight,Stuyvesant Heights,3,581
+evening,South Williamsburg,3,564
+morning,Washington Heights North,3,547
+evening,Mott Haven/Port Morris,3,538
+midnight,Washington Heights North,3,521
+morning,Mott Haven/Port Morris,3,512
+morning,East Elmhurst,3,506
+afternoon,Flushing Meadows-Corona Park,3,502
+evening,West Concourse,3,493
+midnight,South Williamsburg,3,490
+midnight,Cobble Hill,3,490
+afternoon,Prospect Heights,3,477
+afternoon,Elmhurst,3,474
+midnight,Elmhurst/Maspeth,3,466
+evening,Baisley Park,3,466
+evening,Stuyvesant Heights,3,457
+midnight,Prospect-Lefferts Gardens,3,448
+morning,Prospect Heights,3,445
+morning,Prospect-Lefferts Gardens,3,445
+evening,Elmhurst,3,444
+morning,Baisley Park,3,431
+afternoon,East Elmhurst,3,430
+afternoon,Washington Heights North,3,426
+morning,Crown Heights North,3,422
+morning,Bedford,3,419
+afternoon,Gowanus,3,410
+morning,Elmhurst/Maspeth,3,408
+evening,Inwood,3,400
+evening,Bushwick North,3,382
+midnight,West Concourse,3,361
+afternoon,East Williamsburg,3,356
+evening,Prospect-Lefferts Gardens,3,355
+afternoon,Bedford,3,354
+afternoon,Newark Airport,3,352
+midnight,Forest Hills,3,351
+midnight,Flatbush/Ditmas Park,3,351
+afternoon,Jamaica,3,351
+morning,Sunset Park West,3,333
+afternoon,South Jamaica,3,323
+afternoon,Crown Heights North,3,319
+midnight,DUMBO/Vinegar Hill,3,317
+morning,East Williamsburg,3,311
+morning,Gowanus,3,311
+morning,Saint Michaels Cemetery/Woodside,3,309
+midnight,Sunset Park West,3,298
+midnight,Inwood,3,294
+morning,Flatbush/Ditmas Park,3,289
+afternoon,South Ozone Park,3,286
+evening,Sunset Park West,3,279
+morning,Rego Park,3,279
+evening,Forest Hills,3,271
+morning,Inwood,3,270
+afternoon,Elmhurst/Maspeth,3,267
+evening,Elmhurst/Maspeth,3,266
+evening,East Elmhurst,3,264
+evening,Flushing Meadows-Corona Park,3,261
+afternoon,Forest Hills,3,258
+afternoon,Prospect-Lefferts Gardens,3,248
+evening,Flatbush/Ditmas Park,3,244
+morning,Flushing Meadows-Corona Park,3,243
+morning,Cypress Hills,3,241
+evening,Red Hook,3,237
+morning,Columbia Street,3,237
+afternoon,Briarwood/Jamaica Hills,3,234
+midnight,East Elmhurst,3,233
+afternoon,Sunset Park West,3,225
+midnight,Rego Park,3,221
+midnight,Ridgewood,3,221
+afternoon,Springfield Gardens South,3,219
+morning,Melrose South,3,210
+morning,Kensington,3,207
+afternoon,Kew Gardens,3,205
+afternoon,Randalls Island,3,204
+morning,Newark Airport,3,193
+morning,Bushwick South,3,191
+afternoon,Melrose South,3,190
+evening,Roosevelt Island,3,188
+afternoon,Bushwick South,3,187
+evening,Melrose South,3,187
+evening,Crown Heights South,3,186
+afternoon,Rego Park,3,186
+morning,East Concourse/Concourse Village,3,183
+morning,Kew Gardens,3,182
+afternoon,Prospect Park,3,181
+midnight,Melrose South,3,180
+afternoon,Inwood,3,180
+evening,Jamaica,3,177
+midnight,Crown Heights South,3,175
+evening,Bay Ridge,3,174
+midnight,Battery Park,3,172
+morning,Jamaica,3,171
+evening,Rego Park,3,169
+midnight,North Corona,3,168
+evening,Columbia Street,3,167
+midnight,Maspeth,3,165
+afternoon,Flatbush/Ditmas Park,3,164
+evening,South Ozone Park,3,162
+morning,Stuyvesant Heights,3,161
+evening,Prospect Park,3,159
+midnight,East Concourse/Concourse Village,3,157
+morning,Flushing,3,157
+evening,Brooklyn Navy Yard,3,156
+afternoon,South Williamsburg,3,156
+evening,Kensington,3,156
+midnight,Bay Ridge,3,155
+afternoon,Flushing,3,154
+afternoon,Saint Michaels Cemetery/Woodside,3,153
+morning,Briarwood/Jamaica Hills,3,151
+evening,Springfield Gardens South,3,149
+evening,Randalls Island,3,148
+evening,South Jamaica,3,146
+evening,East Concourse/Concourse Village,3,146
+afternoon,Cypress Hills,3,142
+afternoon,Red Hook,3,140
+morning,South Ozone Park,3,138
+midnight,Kensington,3,137
+evening,Ridgewood,3,136
+morning,Bay Ridge,3,135
+afternoon,East Concourse/Concourse Village,3,133
+morning,Highbridge,3,132
+evening,Briarwood/Jamaica Hills,3,131
+morning,Morrisania/Melrose,3,129
+morning,Red Hook,3,128
+morning,Randalls Island,3,125
+midnight,Baisley Park,3,124
+afternoon,Richmond Hill,3,124
+evening,Kew Gardens,3,123
+evening,Maspeth,3,122
+evening,Windsor Terrace,3,121
+morning,South Jamaica,3,118
+afternoon,Brooklyn Navy Yard,3,115
+afternoon,Maspeth,3,113
+afternoon,Roosevelt Island,3,108
+afternoon,Stuyvesant Heights,3,107
+morning,Windsor Terrace,3,106
+evening,Flushing,3,106
+midnight,Saint Michaels Cemetery/Woodside,3,103
+afternoon,Corona,3,102
+midnight,Mount Hope,3,101
+midnight,Corona,3,100
+midnight,Flushing Meadows-Corona Park,3,98
+morning,Prospect Park,3,97
+midnight,Morrisania/Melrose,3,97
+afternoon,Kensington,3,97
+midnight,Erasmus,3,96
+afternoon,East New York,3,95
+midnight,Ocean Hill,3,94
+evening,Newark Airport,3,94
+morning,Ocean Hill,3,92
+midnight,Jamaica,3,92
+midnight,Windsor Terrace,3,92
+midnight,Roosevelt Island,3,92
+midnight,Prospect Park,3,91
+morning,Springfield Gardens South,3,91
+midnight,Briarwood/Jamaica Hills,3,90
+evening,East New York,3,89
+morning,University Heights/Morris Heights,3,87
+afternoon,Highbridge,3,85
+morning,South Williamsburg,3,85
+afternoon,Columbia Street,3,84
+morning,Richmond Hill,3,84
+midnight,East New York,3,83
+morning,Bushwick North,3,83
+evening,Corona,3,81
+morning,Maspeth,3,81
+midnight,Flushing,3,81
+morning,Crown Heights South,3,81
+morning,Brooklyn Navy Yard,3,80
+evening,Van Nest/Morris Park,3,79
+evening,Spuyten Duyvil/Kingsbridge,3,78
+afternoon,Bay Ridge,3,78
+morning,Erasmus,3,78
+midnight,University Heights/Morris Heights,3,77
+midnight,Kew Gardens,3,77
+morning,Corona,3,77
+midnight,Highbridge,3,75
+afternoon,Borough Park,3,75
+morning,Roosevelt Island,3,74
+morning,Midwood,3,74
+morning,Van Nest/Morris Park,3,74
+midnight,Red Hook,3,74
+evening,University Heights/Morris Heights,3,73
+midnight,Richmond Hill,3,73
+morning,North Corona,3,71
+evening,Erasmus,3,70
+midnight,East Flatbush/Farragut,3,69
+morning,East New York,3,69
+evening,North Corona,3,68
+evening,Ocean Hill,3,67
+evening,Morrisania/Melrose,3,67
+midnight,South Ozone Park,3,66
+morning,Mount Hope,3,66
+morning,Homecrest,3,65
+evening,Highbridge,3,65
+evening,Middle Village,3,65
+afternoon,Windsor Terrace,3,64
+afternoon,Bushwick North,3,64
+evening,Richmond Hill,3,64
+morning,Kew Gardens Hills,3,64
+afternoon,Morrisania/Melrose,3,62
+midnight,Columbia Street,3,62
+morning,Claremont/Bathgate,3,62
+afternoon,North Corona,3,61
+morning,Ridgewood,3,61
+afternoon,Crown Heights South,3,60
+afternoon,Ocean Hill,3,60
+midnight,Newark Airport,3,59
+afternoon,University Heights/Morris Heights,3,59
+afternoon,Howard Beach,3,57
+midnight,Spuyten Duyvil/Kingsbridge,3,57
+midnight,Brownsville,3,56
+morning,Flatlands,3,56
+afternoon,Ocean Parkway South,3,56
+evening,Mount Hope,3,55
+evening,East Flatbush/Remsen Village,3,55
+afternoon,Midwood,3,55
+afternoon,Ridgewood,3,55
+evening,Canarsie,3,54
+evening,Homecrest,3,53
+morning,Woodhaven,3,52
+midnight,East Tremont,3,52
+midnight,Middle Village,3,52
+morning,Astoria Park,3,51
+midnight,Soundview/Bruckner,3,51
+midnight,Bensonhurst West,3,51
+midnight,East Flatbush/Remsen Village,3,49
+morning,Parkchester,3,49
+midnight,Soundview/Castle Hill,3,49
+evening,Soundview/Castle Hill,3,48
+afternoon,Mount Hope,3,48
+midnight,Kew Gardens Hills,3,48
+midnight,Cypress Hills,3,47
+midnight,South Jamaica,3,47
+afternoon,Homecrest,3,47
+morning,Soundview/Bruckner,3,47
+midnight,Canarsie,3,46
+midnight,Kingsbridge Heights,3,46
+evening,Brownsville,3,45
+midnight,Hunts Point,3,45
+midnight,Westchester Village/Unionport,3,45
+midnight,Randalls Island,3,45
+afternoon,Spuyten Duyvil/Kingsbridge,3,45
+morning,Bensonhurst West,3,44
+midnight,Woodhaven,3,44
+evening,East Tremont,3,43
+morning,Van Cortlandt Village,3,43
+morning,Borough Park,3,43
+evening,Coney Island,3,43
+evening,East Flatbush/Farragut,3,43
+midnight,Flatlands,3,43
+afternoon,Westerleigh,3,42
+midnight,Longwood,3,42
+midnight,Van Cortlandt Village,3,41
+evening,Flatlands,3,41
+morning,Soundview/Castle Hill,3,41
+afternoon,Canarsie,3,41
+evening,Woodhaven,3,40
+morning,Bedford Park,3,40
+morning,Spuyten Duyvil/Kingsbridge,3,40
+midnight,Woodlawn/Wakefield,3,39
+morning,Kingsbridge Heights,3,39
+evening,Soundview/Bruckner,3,39
+evening,Van Cortlandt Village,3,38
+midnight,Fordham South,3,38
+evening,Howard Beach,3,38
+midnight,Sunset Park East,3,38
+evening,Borough Park,3,38
+afternoon,Claremont/Bathgate,3,37
+evening,Marble Hill,3,36
+evening,Midwood,3,36
+evening,Westchester Village/Unionport,3,36
+morning,Marble Hill,3,36
+morning,Canarsie,3,36
+morning,Norwood,3,36
+evening,Claremont/Bathgate,3,36
+afternoon,Ozone Park,3,35
+midnight,Claremont/Bathgate,3,35
+afternoon,Astoria Park,3,35
+evening,Parkchester,3,34
+evening,Kingsbridge Heights,3,34
+morning,East Tremont,3,34
+midnight,Homecrest,3,33
+midnight,Bedford Park,3,33
+afternoon,Middle Village,3,33
+afternoon,College Point,3,33
+afternoon,Marble Hill,3,33
+afternoon,Kew Gardens Hills,3,33
+midnight,Dyker Heights,3,33
+afternoon,Brownsville,3,33
+midnight,Midwood,3,33
+midnight,Norwood,3,33
+morning,Inwood Hill Park,3,32
+morning,Westerleigh,3,32
+evening,Westerleigh,3,32
+midnight,Jamaica Estates,3,31
+midnight,Schuylerville/Edgewater Park,3,31
+evening,Bedford Park,3,31
+midnight,Springfield Gardens South,3,31
+morning,Queensboro Hill,3,31
+evening,Hunts Point,3,31
+morning,Howard Beach,3,31
+morning,Middle Village,3,30
+evening,Belmont,3,30
+midnight,Parkchester,3,30
+afternoon,Queensboro Hill,3,30
+midnight,West Farms/Bronx River,3,30
+midnight,Van Nest/Morris Park,3,29
+evening,Schuylerville/Edgewater Park,3,29
+afternoon,Kingsbridge Heights,3,29
+midnight,Queensboro Hill,3,29
+evening,Dyker Heights,3,28
+midnight,Bensonhurst East,3,28
+afternoon,Parkchester,3,27
+midnight,Pelham Parkway,3,27
+evening,Saint Michaels Cemetery/Woodside,3,27
+evening,Cypress Hills,3,27
+midnight,Belmont,3,27
+afternoon,Westchester Village/Unionport,3,27
+midnight,Astoria Park,3,26
+afternoon,Bensonhurst West,3,26
+morning,Brownsville,3,26
+morning,Westchester Village/Unionport,3,26
+afternoon,Hunts Point,3,26
+afternoon,Bedford Park,3,26
+midnight,Highbridge Park,3,25
+midnight,Glendale,3,25
+morning,Hillcrest/Pomonok,3,25
+evening,Crotona Park East,3,25
+afternoon,Van Nest/Morris Park,3,25
+morning,East Flatbush/Remsen Village,3,25
+midnight,Borough Park,3,25
+evening,Williamsbridge/Olinville,3,25
+afternoon,Longwood,3,25
+morning,Sunset Park East,3,25
+midnight,Marble Hill,3,24
+midnight,Williamsbridge/Olinville,3,24
+afternoon,Norwood,3,24
+evening,Glendale,3,24
+evening,Co-Op City,3,24
+evening,Riverdale/North Riverdale/Fieldston,3,24
+morning,West Farms/Bronx River,3,24
+evening,Ocean Parkway South,3,24
+morning,Hunts Point,3,24
+afternoon,Erasmus,3,24
+midnight,Crotona Park East,3,24
+evening,Astoria Park,3,24
+afternoon,Murray Hill-Queens,3,24
+midnight,Brooklyn Navy Yard,3,23
+morning,Crotona Park East,3,23
+midnight,Coney Island,3,23
+afternoon,Sunset Park East,3,22
+afternoon,Whitestone,3,22
+morning,Glendale,3,22
+midnight,East New York/Pennsylvania Avenue,3,22
+afternoon,Flatlands,3,22
+evening,Norwood,3,22
+evening,Bensonhurst West,3,22
+midnight,Madison,3,22
+afternoon,Soundview/Bruckner,3,22
+midnight,Springfield Gardens North,3,22
+midnight,Fresh Meadows,3,22
+evening,Woodlawn/Wakefield,3,22
+evening,Sunset Park East,3,22
+morning,Jamaica Estates,3,21
+midnight,Ocean Parkway South,3,21
+evening,Longwood,3,20
+evening,East New York/Pennsylvania Avenue,3,20
+midnight,Bayside,3,20
+morning,East Flatbush/Farragut,3,20
+midnight,Marine Park/Mill Basin,3,20
+midnight,Howard Beach,3,19
+afternoon,Glendale,3,19
+evening,Queensboro Hill,3,19
+afternoon,Springfield Gardens North,3,19
+evening,Queens Village,3,19
+afternoon,Van Cortlandt Village,3,19
+afternoon,East New York/Pennsylvania Avenue,3,19
+midnight,Hillcrest/Pomonok,3,19
+midnight,Brighton Beach,3,19
+afternoon,Inwood Hill Park,3,18
+morning,Williamsbridge/Olinville,3,18
+afternoon,East Flatbush/Remsen Village,3,18
+morning,Longwood,3,18
+afternoon,Soundview/Castle Hill,3,18
+evening,College Point,3,18
+afternoon,Belmont,3,18
+evening,West Farms/Bronx River,3,18
+afternoon,Coney Island,3,18
+evening,Kew Gardens Hills,3,18
+afternoon,Glen Oaks,3,18
+afternoon,West Farms/Bronx River,3,17
+afternoon,East Flatbush/Farragut,3,17
+morning,Pelham Parkway,3,17
+afternoon,Brighton Beach,3,17
+morning,Bronxdale,3,17
+evening,Murray Hill-Queens,3,17
+morning,Coney Island,3,17
+morning,East New York/Pennsylvania Avenue,3,17
+afternoon,Hillcrest/Pomonok,3,17
+midnight,Queens Village,3,17
+morning,Arrochar/Fort Wadsworth,3,17
+evening,Hillcrest/Pomonok,3,17
+evening,Pelham Parkway,3,17
+midnight,Oakland Gardens,3,17
+morning,Madison,3,17
+afternoon,Jamaica Estates,3,16
+afternoon,Dyker Heights,3,16
+afternoon,Williamsbridge/Olinville,3,16
+afternoon,East Tremont,3,16
+evening,Fordham South,3,16
+afternoon,Fordham South,3,16
+afternoon,Bronx Park,3,16
+morning,Riverdale/North Riverdale/Fieldston,3,16
+morning,College Point,3,16
+afternoon,Riverdale/North Riverdale/Fieldston,3,16
+midnight,Sheepshead Bay,3,15
+evening,Springfield Gardens North,3,15
+morning,Brighton Beach,3,15
+afternoon,Cambria Heights,3,15
+midnight,Co-Op City,3,15
+morning,Ocean Parkway South,3,15
+morning,Rosedale,3,15
+morning,Whitestone,3,15
+evening,Eastchester,3,15
+evening,Sheepshead Bay,3,15
+midnight,Eastchester,3,15
+afternoon,Woodhaven,3,15
+afternoon,Queens Village,3,15
+midnight,Bath Beach,3,15
+afternoon,Sheepshead Bay,3,14
+afternoon,Pelham Parkway,3,14
+afternoon,Auburndale,3,14
+evening,Bath Beach,3,14
+morning,Bensonhurst East,3,14
+afternoon,Bellerose,3,14
+afternoon,Bath Beach,3,14
+morning,Queens Village,3,14
+evening,Whitestone,3,14
+evening,Marine Park/Floyd Bennett Field,3,14
+morning,Bath Beach,3,14
+midnight,Arrochar/Fort Wadsworth,3,14
+evening,Saint Albans,3,14
+midnight,Murray Hill-Queens,3,14
+evening,Brighton Beach,3,14
+morning,Belmont,3,14
+evening,Inwood Hill Park,3,13
+evening,Cambria Heights,3,13
+evening,Rikers Island,3,13
+afternoon,Marine Park/Mill Basin,3,13
+morning,Springfield Gardens North,3,13
+evening,Highbridge Park,3,13
+midnight,Van Cortlandt Park,3,13
+evening,Madison,3,13
+midnight,Bronxdale,3,13
+midnight,Gravesend,3,13
+morning,Forest Park/Highland Park,3,12
+afternoon,East Flushing,3,12
+evening,Marine Park/Mill Basin,3,12
+afternoon,Schuylerville/Edgewater Park,3,12
+afternoon,Rosedale,3,12
+midnight,Bellerose,3,12
+afternoon,Fresh Meadows,3,12
+afternoon,Crotona Park East,3,12
+morning,Ozone Park,3,12
+morning,Sheepshead Bay,3,12
+evening,Bayside,3,12
+midnight,Riverdale/North Riverdale/Fieldston,3,11
+evening,Bronxdale,3,11
+morning,Bellerose,3,11
+afternoon,Manhattan Beach,3,11
+afternoon,Saint Albans,3,11
+midnight,Saint Albans,3,11
+evening,Rosedale,3,11
+morning,Fordham South,3,11
+evening,Jamaica Estates,3,11
+morning,Bronx Park,3,10
+midnight,Whitestone,3,10
+evening,Bronx Park,3,10
+afternoon,Bensonhurst East,3,10
+morning,Murray Hill-Queens,3,10
+midnight,Bloomfield/Emerson Hill,3,10
+afternoon,Marine Park/Floyd Bennett Field,3,9
+afternoon,Co-Op City,3,9
+morning,East Flushing,3,9
+midnight,College Point,3,9
+afternoon,Starrett City,3,9
+midnight,Bay Terrace/Fort Totten,3,9
+afternoon,Highbridge Park,3,9
+afternoon,Allerton/Pelham Gardens,3,9
+afternoon,Bronxdale,3,9
+evening,Forest Park/Highland Park,3,9
+evening,Ozone Park,3,9
+midnight,Ozone Park,3,8
+morning,Schuylerville/Edgewater Park,3,8
+morning,Gravesend,3,8
+afternoon,Gravesend,3,8
+midnight,Auburndale,3,8
+midnight,Rosedale,3,8
+morning,Highbridge Park,3,8
+afternoon,Douglaston,3,8
+afternoon,Hollis,3,8
+midnight,East Flushing,3,8
+evening,Auburndale,3,8
+morning,Co-Op City,3,8
+midnight,Pelham Bay,3,8
+morning,Allerton/Pelham Gardens,3,7
+midnight,Allerton/Pelham Gardens,3,7
+morning,Dyker Heights,3,7
+evening,Arrochar/Fort Wadsworth,3,7
+morning,Oakland Gardens,3,7
+midnight,Governor's Island/Ellis Island/Liberty Island,3,7
+evening,Gravesend,3,7
+morning,Woodlawn/Wakefield,3,7
+midnight,Manhattan Beach,3,6
+evening,Pelham Bay,3,6
+evening,Fresh Meadows,3,6
+morning,Rockaway Park,3,6
+evening,Bensonhurst East,3,6
+afternoon,Madison,3,6
+midnight,Country Club,3,6
+evening,Glen Oaks,3,6
+midnight,Grymes Hill/Clifton,3,6
+midnight,Great Kills,3,6
+morning,Marine Park/Mill Basin,3,6
+evening,Van Cortlandt Park,3,6
+morning,Fresh Meadows,3,6
+midnight,Stapleton,3,6
+evening,Allerton/Pelham Gardens,3,5
+afternoon,Bay Terrace/Fort Totten,3,5
+midnight,Westerleigh,3,5
+morning,Bloomfield/Emerson Hill,3,5
+midnight,Green-Wood Cemetery,3,5
+evening,Bellerose,3,5
+evening,Douglaston,3,5
+morning,Starrett City,3,5
+morning,Marine Park/Floyd Bennett Field,3,5
+afternoon,Far Rockaway,3,5
+morning,Green-Wood Cemetery,3,5
+morning,Laurelton,3,5
+afternoon,Rossville/Woodrow,3,5
+morning,Grymes Hill/Clifton,3,5
+midnight,Starrett City,3,5
+morning,Hollis,3,5
+evening,Stapleton,3,5
+morning,Willets Point,3,5
+evening,Rockaway Park,3,5
+midnight,Douglaston,3,5
+afternoon,Laurelton,3,5
+afternoon,Willets Point,3,5
+midnight,Bronx Park,3,5
+morning,Cambria Heights,3,5
+midnight,Charleston/Tottenville,3,4
+midnight,Saint George/New Brighton,3,4
+evening,Bloomfield/Emerson Hill,3,4
+midnight,South Beach/Dongan Hills,3,4
+midnight,Rockaway Park,3,4
+afternoon,Woodlawn/Wakefield,3,4
+midnight,Mariners Harbor,3,4
+morning,Pelham Bay,3,4
+evening,Hammels/Arverne,3,4
+evening,Hollis,3,4
+afternoon,Forest Park/Highland Park,3,4
+morning,Glen Oaks,3,4
+morning,Auburndale,3,4
+midnight,Laurelton,3,4
+morning,Hammels/Arverne,3,4
+evening,Governor's Island/Ellis Island/Liberty Island,3,4
+midnight,New Dorp/Midland Beach,3,4
+afternoon,Green-Wood Cemetery,3,3
+afternoon,Oakland Gardens,3,3
+morning,Bay Terrace/Fort Totten,3,3
+morning,Manhattan Beach,3,3
+midnight,Hammels/Arverne,3,3
+evening,Far Rockaway,3,3
+morning,Douglaston,3,3
+evening,City Island,3,3
+evening,Starrett City,3,3
+evening,Manhattan Beach,3,3
+morning,Saint Albans,3,3
+morning,Van Cortlandt Park,3,3
+midnight,Willets Point,3,3
+afternoon,Eastchester,3,3
+afternoon,Bayside,3,3
+morning,Rossville/Woodrow,3,3
+midnight,Forest Park/Highland Park,3,3
+afternoon,Jamaica Bay,3,3
+midnight,Far Rockaway,3,3
+midnight,Glen Oaks,3,3
+afternoon,New Dorp/Midland Beach,3,3
+afternoon,Grymes Hill/Clifton,3,3
+afternoon,Arrochar/Fort Wadsworth,3,3
+evening,New Dorp/Midland Beach,3,3
+midnight,Inwood Hill Park,3,3
+evening,Jamaica Bay,3,2
+evening,Willets Point,3,2
+morning,Far Rockaway,3,2
+midnight,Heartland Village/Todt Hill,3,2
+midnight,Hollis,3,2
+afternoon,Pelham Bay,3,2
+evening,Country Club,3,2
+evening,Oakland Gardens,3,2
+morning,Oakwood,3,2
+morning,Mariners Harbor,3,2
+evening,Green-Wood Cemetery,3,2
+midnight,Crotona Park,3,2
+morning,Saint George/New Brighton,3,2
+morning,Eastchester,3,2
+evening,Oakwood,3,2
+morning,Bayside,3,2
+midnight,Rikers Island,3,2
+midnight,Broad Channel,3,2
+midnight,West Brighton,3,2
+afternoon,Stapleton,3,2
+midnight,Marine Park/Floyd Bennett Field,3,2
+afternoon,Van Cortlandt Park,3,2
+afternoon,Rikers Island,3,2
+morning,Heartland Village/Todt Hill,3,2
+midnight,Pelham Bay Park,3,2
+evening,Port Richmond,3,2
+midnight,Breezy Point/Fort Tilden/Riis Beach,3,1
+afternoon,Hammels/Arverne,3,1
+afternoon,Bloomfield/Emerson Hill,3,1
+midnight,Cambria Heights,3,1
+evening,Great Kills,3,1
+morning,Rikers Island,3,1
+afternoon,Pelham Bay Park,3,1
+evening,Arden Heights,3,1
+afternoon,Heartland Village/Todt Hill,3,1
+midnight,City Island,3,1
+midnight,Jamaica Bay,3,1
+evening,South Beach/Dongan Hills,3,1
+morning,Arden Heights,3,1
+morning,West Brighton,3,1
+evening,Bay Terrace/Fort Totten,3,1
+morning,Pelham Bay Park,3,1
+afternoon,Governor's Island/Ellis Island/Liberty Island,3,1
+evening,Heartland Village/Todt Hill,3,1
+evening,East Flushing,3,1
+afternoon,Broad Channel,3,1
+evening,Pelham Bay Park,3,1
+afternoon,Rockaway Park,3,1
+afternoon,South Beach/Dongan Hills,3,1
+morning,Jamaica Bay,3,1
+afternoon,Arden Heights,3,1
+midnight,Rossville/Woodrow,3,1
+midnight,Arden Heights,3,1
+evening,Grymes Hill/Clifton,3,1
+evening,Saint George/New Brighton,3,1
+afternoon,Saint George/New Brighton,3,1
+afternoon,Eltingville/Annadale/Prince's Bay,3,1
+evening,Rossville/Woodrow,3,1
+evening,Breezy Point/Fort Tilden/Riis Beach,3,1
+midnight,Oakwood,3,1
+midnight,Eltingville/Annadale/Prince's Bay,3,1
+afternoon,Country Club,3,1
+evening,Mariners Harbor,3,1
+afternoon,Upper East Side South,4,155594
+afternoon,Upper East Side North,4,142822
+evening,Midtown Center,4,138336
+afternoon,Midtown Center,4,134720
+evening,Times Sq/Theatre District,4,133818
+evening,Union Sq,4,126986
+evening,Midtown East,4,122051
+evening,Upper East Side South,4,114863
+morning,Upper East Side North,4,113832
+evening,East Village,4,111587
+evening,Clinton East,4,110462
+evening,Lincoln Square East,4,110007
+evening,Penn Station/Madison Sq West,4,109299
+morning,Upper East Side South,4,107469
+evening,Murray Hill,4,106794
+afternoon,Midtown East,4,105991
+morning,Penn Station/Madison Sq West,4,105131
+afternoon,Union Sq,4,103854
+afternoon,Penn Station/Madison Sq West,4,100345
+afternoon,Upper West Side South,4,98250
+afternoon,Murray Hill,4,97265
+evening,LaGuardia Airport,4,96979
+evening,Midtown North,4,95573
+afternoon,Lincoln Square East,4,94864
+afternoon,Times Sq/Theatre District,4,92205
+evening,JFK Airport,4,92176
+afternoon,LaGuardia Airport,4,91490
+afternoon,Midtown North,4,89922
+evening,Upper East Side North,4,88975
+midnight,East Village,4,88485
+morning,Murray Hill,4,86413
+evening,Midtown South,4,85432
+evening,Gramercy,4,84201
+evening,West Village,4,83841
+morning,Midtown East,4,82755
+morning,Clinton East,4,82574
+evening,East Chelsea,4,80852
+afternoon,JFK Airport,4,80497
+evening,Upper West Side South,4,75591
+afternoon,Lenox Hill West,4,72893
+morning,Midtown Center,4,71746
+evening,TriBeCa/Civic Center,4,70405
+afternoon,Clinton East,4,69447
+afternoon,Midtown South,4,69227
+morning,Lenox Hill West,4,68399
+evening,Flatiron,4,68006
+afternoon,Central Park,4,67879
+morning,Upper West Side South,4,67461
+evening,Lenox Hill West,4,67455
+morning,Times Sq/Theatre District,4,67230
+afternoon,Upper West Side North,4,66817
+midnight,Lower East Side,4,66153
+afternoon,Gramercy,4,65452
+morning,Lincoln Square East,4,65372
+afternoon,East Chelsea,4,65260
+evening,Sutton Place/Turtle Bay North,4,64887
+evening,Greenwich Village North,4,62671
+evening,Garment District,4,60701
+morning,Gramercy,4,60643
+morning,Upper West Side North,4,60095
+morning,Union Sq,4,59702
+morning,LaGuardia Airport,4,58536
+evening,Greenwich Village South,4,58339
+afternoon,Lenox Hill East,4,57308
+morning,Garment District,4,56803
+afternoon,East Village,4,55670
+afternoon,TriBeCa/Civic Center,4,55560
+afternoon,Flatiron,4,55445
+afternoon,Garment District,4,55380
+morning,Lenox Hill East,4,54761
+morning,Midtown North,4,54469
+morning,Sutton Place/Turtle Bay North,4,53267
+afternoon,Yorkville West,4,53075
+morning,Yorkville West,4,52625
+afternoon,Sutton Place/Turtle Bay North,4,52578
+evening,Yorkville West,4,52385
+midnight,Clinton East,4,52120
+afternoon,Greenwich Village North,4,50714
+morning,East Chelsea,4,50607
+evening,Lower East Side,4,50321
+afternoon,West Chelsea/Hudson Yards,4,49616
+morning,Midtown South,4,49543
+evening,West Chelsea/Hudson Yards,4,49318
+evening,Upper West Side North,4,49315
+morning,Yorkville East,4,48678
+evening,Little Italy/NoLiTa,4,48557
+afternoon,West Village,4,47786
+evening,NV,4,47497
+morning,East Village,4,47302
+midnight,West Village,4,46983
+midnight,Times Sq/Theatre District,4,44679
+morning,Flatiron,4,43940
+evening,Meatpacking/West Village West,4,43617
+afternoon,NV,4,43463
+morning,TriBeCa/Civic Center,4,43205
+morning,JFK Airport,4,43157
+evening,UN/Turtle Bay South,4,42897
+evening,Lenox Hill East,4,41568
+afternoon,UN/Turtle Bay South,4,40814
+evening,Kips Bay,4,40040
+midnight,East Chelsea,4,40018
+afternoon,Yorkville East,4,39531
+morning,Greenwich Village North,4,38471
+midnight,Greenwich Village South,4,38353
+morning,West Village,4,38182
+afternoon,Lincoln Square West,4,36968
+evening,Central Park,4,36900
+morning,Lincoln Square West,4,36309
+morning,UN/Turtle Bay South,4,36086
+morning,Kips Bay,4,35909
+midnight,Union Sq,4,35847
+morning,Central Park,4,35324
+afternoon,Kips Bay,4,35301
+midnight,Midtown South,4,34879
+afternoon,Battery Park City,4,34120
+evening,SoHo,4,32618
+afternoon,Greenwich Village South,4,32362
+morning,West Chelsea/Hudson Yards,4,32173
+morning,NV,4,31929
+morning,Battery Park City,4,30883
+afternoon,Meatpacking/West Village West,4,30270
+afternoon,Manhattan Valley,4,30217
+afternoon,Little Italy/NoLiTa,4,30116
+afternoon,Clinton West,4,29878
+midnight,JFK Airport,4,29463
+midnight,Gramercy,4,29275
+evening,Battery Park City,4,29227
+midnight,Meatpacking/West Village West,4,28980
+morning,Clinton West,4,28937
+morning,Manhattan Valley,4,28505
+evening,Clinton West,4,28437
+afternoon,SoHo,4,27899
+evening,Financial District North,4,27848
+midnight,Penn Station/Madison Sq West,4,27821
+evening,Lincoln Square West,4,27355
+evening,Yorkville East,4,25654
+midnight,Flatiron,4,25154
+midnight,Murray Hill,4,25103
+afternoon,Financial District North,4,24855
+afternoon,World Trade Center,4,24605
+midnight,Little Italy/NoLiTa,4,24528
+morning,Meatpacking/West Village West,4,23368
+midnight,Midtown North,4,23112
+evening,Manhattan Valley,4,22790
+midnight,TriBeCa/Civic Center,4,22231
+morning,East Harlem South,4,22179
+midnight,Midtown Center,4,22018
+evening,Hudson Sq,4,21678
+midnight,Garment District,4,21295
+afternoon,East Harlem South,4,21268
+midnight,Midtown East,4,20445
+afternoon,Lower East Side,4,20246
+evening,World Trade Center,4,19549
+afternoon,Morningside Heights,4,19198
+midnight,West Chelsea/Hudson Yards,4,18912
+morning,Financial District North,4,18836
+midnight,Sutton Place/Turtle Bay North,4,18003
+midnight,NV,4,17899
+morning,Greenwich Village South,4,17791
+midnight,Lenox Hill West,4,17698
+midnight,Yorkville West,4,16932
+afternoon,Hudson Sq,4,16728
+evening,Morningside Heights,4,16571
+midnight,Lincoln Square East,4,16230
+midnight,Greenwich Village North,4,16115
+evening,East Harlem South,4,15877
+evening,Financial District South,4,15241
+morning,Morningside Heights,4,14849
+afternoon,Financial District South,4,14692
+morning,Lower East Side,4,14484
+morning,Little Italy/NoLiTa,4,14012
+midnight,LaGuardia Airport,4,13737
+midnight,Kips Bay,4,13566
+morning,World Trade Center,4,13101
+midnight,Upper West Side South,4,13072
+morning,SoHo,4,13045
+midnight,Clinton West,4,12995
+midnight,Upper East Side South,4,12771
+morning,Stuy Town/Peter Cooper Village,4,12423
+morning,Hudson Sq,4,12345
+morning,Central Harlem,4,11662
+morning,East Harlem North,4,11596
+midnight,Hudson Sq,4,10655
+afternoon,Central Harlem,4,10464
+afternoon,East Harlem North,4,10273
+midnight,SoHo,4,10132
+morning,Bloomingdale,4,10056
+evening,Central Harlem,4,9976
+evening,East Harlem North,4,9679
+afternoon,Bloomingdale,4,9545
+midnight,Upper West Side North,4,9453
+midnight,Upper East Side North,4,9317
+midnight,UN/Turtle Bay South,4,8720
+evening,Bloomingdale,4,8110
+evening,Alphabet City,4,7963
+morning,Financial District South,4,7832
+evening,Seaport,4,7776
+afternoon,Stuy Town/Peter Cooper Village,4,7762
+evening,Chinatown,4,7705
+afternoon,Chinatown,4,7568
+midnight,Alphabet City,4,7458
+midnight,Lenox Hill East,4,7286
+midnight,Financial District North,4,6984
+evening,Two Bridges/Seward Park,4,6814
+morning,Alphabet City,4,6737
+midnight,Williamsburg (North Side),4,6611
+evening,Stuy Town/Peter Cooper Village,4,6521
+midnight,East Harlem South,4,6480
+morning,Sunnyside,4,6380
+midnight,Williamsburg (South Side),4,6254
+midnight,Two Bridges/Seward Park,4,6165
+afternoon,Seaport,4,5728
+midnight,Astoria,4,5667
+morning,Central Harlem North,4,5642
+evening,Williamsburg (North Side),4,5475
+morning,Astoria,4,5384
+midnight,East Harlem North,4,5176
+afternoon,Alphabet City,4,5066
+midnight,Morningside Heights,4,5039
+midnight,Central Harlem,4,4971
+evening,Park Slope,4,4788
+midnight,Yorkville East,4,4598
+evening,Williamsburg (South Side),4,4563
+midnight,Manhattan Valley,4,4465
+evening,Downtown Brooklyn/MetroTech,4,4433
+afternoon,Central Harlem North,4,4384
+evening,Central Harlem North,4,4223
+afternoon,Two Bridges/Seward Park,4,4191
+morning,Brooklyn Heights,4,4191
+midnight,Lincoln Square West,4,4052
+evening,Fort Greene,4,4050
+morning,Hamilton Heights,4,3997
+morning,Seaport,4,3965
+midnight,East Williamsburg,4,3944
+afternoon,Downtown Brooklyn/MetroTech,4,3918
+evening,Long Island City/Hunters Point,4,3876
+midnight,Financial District South,4,3869
+midnight,Sunnyside,4,3856
+morning,Downtown Brooklyn/MetroTech,4,3852
+afternoon,Sunnyside,4,3750
+afternoon,Long Island City/Hunters Point,4,3737
+midnight,World Trade Center,4,3723
+morning,Chinatown,4,3718
+morning,Washington Heights South,4,3697
+midnight,Central Park,4,3682
+evening,Boerum Hill,4,3524
+afternoon,Astoria,4,3462
+midnight,Battery Park City,4,3411
+midnight,Chinatown,4,3353
+evening,Astoria,4,3335
+evening,Brooklyn Heights,4,3280
+midnight,Park Slope,4,3275
+evening,Hamilton Heights,4,3209
+evening,Sunnyside,4,3184
+morning,Long Island City/Queens Plaza,4,3146
+evening,Manhattanville,4,3116
+morning,Two Bridges/Seward Park,4,3100
+afternoon,Manhattanville,4,3079
+midnight,Bloomingdale,4,3004
+morning,Cobble Hill,4,2963
+morning,Manhattanville,4,2959
+midnight,Stuy Town/Peter Cooper Village,4,2939
+afternoon,Brooklyn Heights,4,2847
+afternoon,Battery Park,4,2664
+afternoon,Long Island City/Queens Plaza,4,2635
+midnight,Central Harlem North,4,2634
+morning,Old Astoria,4,2620
+morning,Carroll Gardens,4,2587
+evening,Long Island City/Queens Plaza,4,2568
+afternoon,Hamilton Heights,4,2566
+afternoon,Washington Heights South,4,2562
+evening,Washington Heights South,4,2546
+morning,Boerum Hill,4,2543
+morning,Long Island City/Hunters Point,4,2540
+morning,Steinway,4,2539
+afternoon,Boerum Hill,4,2519
+midnight,Long Island City/Hunters Point,4,2500
+midnight,Greenpoint,4,2385
+midnight,Long Island City/Queens Plaza,4,2384
+midnight,Fort Greene,4,2380
+morning,Woodside,4,2375
+evening,East Williamsburg,4,2347
+evening,Greenpoint,4,2279
+midnight,Hamilton Heights,4,2234
+morning,Queensbridge/Ravenswood,4,2201
+midnight,Boerum Hill,4,2168
+midnight,Seaport,4,2160
+midnight,Jackson Heights,4,2151
+midnight,Bushwick South,4,2133
+morning,Park Slope,4,2094
+afternoon,Park Slope,4,2034
+midnight,Downtown Brooklyn/MetroTech,4,1933
+afternoon,Williamsburg (North Side),4,1817
+morning,Fort Greene,4,1798
+morning,Jackson Heights,4,1782
+afternoon,Fort Greene,4,1780
+evening,NA,4,1685
+midnight,Woodside,4,1652
+midnight,Washington Heights South,4,1564
+afternoon,Queensbridge/Ravenswood,4,1524
+evening,Clinton Hill,4,1502
+midnight,NA,4,1493
+evening,DUMBO/Vinegar Hill,4,1485
+evening,Carroll Gardens,4,1450
+midnight,Manhattanville,4,1441
+midnight,Old Astoria,4,1416
+evening,Prospect Heights,4,1397
+afternoon,DUMBO/Vinegar Hill,4,1383
+midnight,Bushwick North,4,1378
+midnight,Steinway,4,1378
+afternoon,Williamsburg (South Side),4,1355
+evening,Cobble Hill,4,1340
+midnight,Clinton Hill,4,1310
+afternoon,Old Astoria,4,1277
+midnight,Bedford,4,1264
+afternoon,Steinway,4,1244
+morning,DUMBO/Vinegar Hill,4,1193
+midnight,Elmhurst,4,1146
+evening,Steinway,4,1118
+afternoon,Greenpoint,4,1105
+evening,Old Astoria,4,1085
+afternoon,NA,4,1083
+afternoon,Cobble Hill,4,1071
+midnight,Brooklyn Heights,4,1064
+evening,Bedford,4,1052
+midnight,Crown Heights North,4,1035
+afternoon,Woodside,4,1032
+afternoon,Jackson Heights,4,1004
+midnight,Prospect Heights,4,988
+afternoon,Carroll Gardens,4,978
+evening,Bushwick South,4,932
+evening,Jackson Heights,4,890
+morning,NA,4,870
+morning,Elmhurst,4,867
+midnight,Queensbridge/Ravenswood,4,847
+afternoon,Baisley Park,4,844
+evening,Battery Park,4,840
+evening,Crown Heights North,4,830
+evening,Queensbridge/Ravenswood,4,780
+morning,Battery Park,4,762
+evening,Woodside,4,758
+evening,Washington Heights North,4,746
+midnight,Carroll Gardens,4,745
+morning,Williamsburg (South Side),4,723
+morning,Williamsburg (North Side),4,711
+morning,Clinton Hill,4,691
+morning,West Concourse,4,673
+midnight,Stuyvesant Heights,4,666
+evening,Gowanus,4,652
+midnight,Gowanus,4,644
+midnight,Mott Haven/Port Morris,4,621
+afternoon,Clinton Hill,4,608
+morning,Greenpoint,4,600
+afternoon,West Concourse,4,565
+evening,Baisley Park,4,550
+afternoon,Prospect Heights,4,550
+morning,Forest Hills,4,544
+afternoon,Mott Haven/Port Morris,4,527
+afternoon,Flushing Meadows-Corona Park,4,518
+morning,East Elmhurst,4,511
+afternoon,East Elmhurst,4,502
+evening,West Concourse,4,496
+midnight,Washington Heights North,4,492
+afternoon,East Williamsburg,4,475
+evening,Mott Haven/Port Morris,4,468
+midnight,Cobble Hill,4,459
+midnight,Elmhurst/Maspeth,4,448
+afternoon,Washington Heights North,4,435
+morning,Prospect Heights,4,434
+midnight,Prospect-Lefferts Gardens,4,424
+evening,Inwood,4,420
+morning,Mott Haven/Port Morris,4,420
+evening,Bushwick North,4,412
+morning,Washington Heights North,4,399
+afternoon,Bedford,4,397
+morning,Sunset Park West,4,391
+afternoon,Elmhurst,4,387
+evening,Stuyvesant Heights,4,387
+midnight,South Williamsburg,4,376
+afternoon,Gowanus,4,372
+morning,Elmhurst/Maspeth,4,372
+evening,Elmhurst,4,371
+midnight,DUMBO/Vinegar Hill,4,370
+evening,Flushing Meadows-Corona Park,4,362
+afternoon,Newark Airport,4,359
+afternoon,Jamaica,4,357
+midnight,Forest Hills,4,345
+morning,Prospect-Lefferts Gardens,4,342
+morning,Bedford,4,341
+evening,Prospect-Lefferts Gardens,4,334
+morning,Baisley Park,4,333
+morning,Gowanus,4,333
+afternoon,Randalls Island,4,330
+afternoon,Prospect Park,4,327
+afternoon,South Jamaica,4,327
+evening,South Williamsburg,4,319
+morning,Crown Heights North,4,313
+afternoon,South Ozone Park,4,313
+midnight,Sunset Park West,4,312
+midnight,Flatbush/Ditmas Park,4,310
+midnight,Inwood,4,310
+morning,East Williamsburg,4,306
+evening,East Elmhurst,4,302
+afternoon,Crown Heights North,4,297
+midnight,West Concourse,4,257
+afternoon,Sunset Park West,4,255
+midnight,East Elmhurst,4,254
+morning,Rego Park,4,253
+afternoon,Prospect-Lefferts Gardens,4,245
+morning,Columbia Street,4,243
+evening,Sunset Park West,4,239
+afternoon,Forest Hills,4,238
+morning,Flushing Meadows-Corona Park,4,237
+morning,Flatbush/Ditmas Park,4,234
+midnight,Ridgewood,4,231
+afternoon,Springfield Gardens South,4,230
+evening,Elmhurst/Maspeth,4,224
+afternoon,Bushwick South,4,224
+morning,Saint Michaels Cemetery/Woodside,4,222
+evening,Red Hook,4,212
+afternoon,Briarwood/Jamaica Hills,4,212
+evening,Forest Hills,4,212
+midnight,Rego Park,4,209
+morning,Inwood,4,208
+evening,Flatbush/Ditmas Park,4,206
+morning,Bushwick South,4,201
+afternoon,Inwood,4,200
+afternoon,Elmhurst/Maspeth,4,198
+evening,Jamaica,4,193
+morning,Randalls Island,4,180
+morning,Newark Airport,4,177
+evening,Columbia Street,4,176
+afternoon,Red Hook,4,167
+midnight,North Corona,4,166
+evening,Crown Heights South,4,164
+evening,Prospect Park,4,164
+evening,Roosevelt Island,4,163
+midnight,Crown Heights South,4,160
+afternoon,Kew Gardens,4,159
+morning,Melrose South,4,157
+evening,South Jamaica,4,157
+morning,Jamaica,4,156
+evening,Springfield Gardens South,4,155
+midnight,Melrose South,4,154
+midnight,Battery Park,4,154
+evening,Briarwood/Jamaica Hills,4,153
+evening,Rego Park,4,151
+morning,Mariners Harbor,4,147
+morning,Kew Gardens,4,146
+afternoon,South Williamsburg,4,145
+afternoon,Rego Park,4,144
+midnight,Bay Ridge,4,142
+morning,Briarwood/Jamaica Hills,4,140
+evening,Randalls Island,4,138
+afternoon,Saint Michaels Cemetery/Woodside,4,138
+midnight,East Concourse/Concourse Village,4,138
+afternoon,Maspeth,4,137
+evening,Melrose South,4,136
+midnight,Kensington,4,135
+evening,Maspeth,4,134
+afternoon,Roosevelt Island,4,134
+afternoon,Flatbush/Ditmas Park,4,134
+afternoon,Flushing,4,132
+morning,Flushing,4,131
+morning,South Jamaica,4,131
+afternoon,Stuyvesant Heights,4,129
+afternoon,Brooklyn Navy Yard,4,128
+morning,South Ozone Park,4,128
+afternoon,Melrose South,4,128
+evening,South Ozone Park,4,126
+afternoon,Richmond Hill,4,126
+evening,Windsor Terrace,4,126
+midnight,Maspeth,4,123
+morning,Stuyvesant Heights,4,123
+evening,Bay Ridge,4,121
+midnight,Corona,4,119
+afternoon,Columbia Street,4,119
+evening,Flushing,4,119
+morning,Kensington,4,118
+midnight,Baisley Park,4,117
+morning,East Concourse/Concourse Village,4,116
+evening,Kensington,4,114
+midnight,Flushing,4,113
+midnight,Jamaica,4,112
+midnight,Erasmus,4,111
+midnight,Windsor Terrace,4,110
+afternoon,Crown Heights South,4,109
+afternoon,Mariners Harbor,4,108
+evening,Highbridge,4,106
+midnight,Prospect Park,4,104
+morning,Windsor Terrace,4,104
+evening,East Concourse/Concourse Village,4,104
+midnight,Richmond Hill,4,102
+morning,Prospect Park,4,101
+evening,Newark Airport,4,101
+afternoon,East Concourse/Concourse Village,4,99
+midnight,Briarwood/Jamaica Hills,4,99
+morning,Highbridge,4,96
+morning,Springfield Gardens South,4,96
+midnight,Flushing Meadows-Corona Park,4,95
+afternoon,Highbridge,4,93
+evening,Kew Gardens,4,93
+midnight,Ocean Hill,4,92
+evening,Richmond Hill,4,91
+evening,Ridgewood,4,88
+morning,Bushwick North,4,88
+evening,Brooklyn Navy Yard,4,86
+morning,Roosevelt Island,4,86
+morning,Maspeth,4,86
+midnight,South Ozone Park,4,84
+midnight,Red Hook,4,82
+evening,Corona,4,81
+afternoon,Bushwick North,4,81
+morning,Red Hook,4,80
+morning,Corona,4,80
+morning,Crown Heights South,4,79
+midnight,University Heights/Morris Heights,4,76
+afternoon,Corona,4,76
+midnight,Mount Hope,4,75
+midnight,Morrisania/Melrose,4,75
+midnight,East New York,4,74
+afternoon,Windsor Terrace,4,73
+afternoon,Borough Park,4,73
+midnight,Highbridge,4,73
+afternoon,Kensington,4,73
+midnight,Roosevelt Island,4,73
+morning,Borough Park,4,70
+evening,East New York,4,70
+morning,Richmond Hill,4,68
+afternoon,East New York,4,68
+midnight,Saint Michaels Cemetery/Woodside,4,68
+evening,Spuyten Duyvil/Kingsbridge,4,67
+morning,Bay Ridge,4,67
+morning,Morrisania/Melrose,4,66
+evening,North Corona,4,66
+evening,Erasmus,4,65
+midnight,Columbia Street,4,64
+morning,Brooklyn Navy Yard,4,64
+morning,University Heights/Morris Heights,4,61
+evening,Borough Park,4,60
+evening,Ocean Hill,4,59
+midnight,Spuyten Duyvil/Kingsbridge,4,59
+morning,North Corona,4,59
+morning,Homecrest,4,58
+afternoon,Bay Ridge,4,57
+morning,South Williamsburg,4,56
+afternoon,Mount Hope,4,56
+afternoon,Morrisania/Melrose,4,56
+afternoon,Ocean Parkway South,4,55
+midnight,Hunts Point,4,53
+midnight,Springfield Gardens South,4,52
+morning,East New York,4,51
+midnight,Newark Airport,4,51
+midnight,Randalls Island,4,50
+midnight,Kingsbridge Heights,4,50
+midnight,Kew Gardens,4,49
+midnight,Borough Park,4,49
+morning,Kew Gardens Hills,4,49
+evening,Mount Hope,4,49
+evening,Soundview/Castle Hill,4,49
+midnight,Sunset Park East,4,49
+midnight,Woodhaven,4,48
+morning,Ridgewood,4,48
+morning,Spuyten Duyvil/Kingsbridge,4,47
+midnight,Canarsie,4,46
+morning,Ocean Hill,4,46
+morning,Bensonhurst West,4,44
+midnight,Bensonhurst West,4,44
+afternoon,Howard Beach,4,44
+midnight,East Flatbush/Farragut,4,44
+midnight,Flatlands,4,43
+morning,Bedford Park,4,43
+evening,Middle Village,4,43
+morning,Erasmus,4,43
+morning,Flatlands,4,43
+midnight,Bedford Park,4,43
+midnight,South Jamaica,4,43
+evening,Van Nest/Morris Park,4,42
+afternoon,Canarsie,4,42
+evening,Midwood,4,41
+midnight,Soundview/Bruckner,4,41
+afternoon,Middle Village,4,41
+midnight,Middle Village,4,40
+afternoon,Bensonhurst West,4,40
+morning,Astoria Park,4,40
+afternoon,Cypress Hills,4,40
+evening,University Heights/Morris Heights,4,40
+midnight,Brownsville,4,40
+afternoon,Spuyten Duyvil/Kingsbridge,4,40
+afternoon,Bedford Park,4,39
+evening,East Tremont,4,39
+morning,Mount Hope,4,39
+evening,Marble Hill,4,39
+midnight,Claremont/Bathgate,4,38
+afternoon,North Corona,4,38
+midnight,Kew Gardens Hills,4,38
+midnight,Longwood,4,37
+afternoon,Ocean Hill,4,37
+morning,Midwood,4,37
+morning,Coney Island,4,37
+morning,Heartland Village/Todt Hill,4,37
+midnight,East Flatbush/Remsen Village,4,37
+afternoon,Claremont/Bathgate,4,37
+midnight,Woodlawn/Wakefield,4,36
+evening,Brownsville,4,36
+afternoon,Midwood,4,35
+morning,Kingsbridge Heights,4,35
+afternoon,Erasmus,4,35
+midnight,Soundview/Castle Hill,4,35
+evening,Morrisania/Melrose,4,35
+evening,East Flatbush/Farragut,4,34
+midnight,Midwood,4,34
+morning,Westchester Village/Unionport,4,32
+afternoon,Astoria Park,4,32
+midnight,Homecrest,4,32
+afternoon,Brownsville,4,31
+morning,West Farms/Bronx River,4,31
+evening,Riverdale/North Riverdale/Fieldston,4,31
+morning,Parkchester,4,31
+morning,Sunset Park East,4,31
+midnight,Van Cortlandt Village,4,31
+afternoon,University Heights/Morris Heights,4,31
+evening,Kew Gardens Hills,4,30
+midnight,Dyker Heights,4,30
+midnight,East Tremont,4,30
+morning,Van Nest/Morris Park,4,30
+midnight,Norwood,4,30
+morning,Cypress Hills,4,30
+midnight,Westchester Village/Unionport,4,30
+afternoon,Ridgewood,4,30
+evening,East Flatbush/Remsen Village,4,30
+evening,Soundview/Bruckner,4,29
+afternoon,East Tremont,4,29
+morning,Woodhaven,4,29
+evening,Kingsbridge Heights,4,28
+afternoon,Flatlands,4,28
+midnight,Gravesend,4,28
+morning,Glendale,4,28
+evening,Sunset Park East,4,28
+afternoon,College Point,4,28
+evening,Canarsie,4,28
+afternoon,Heartland Village/Todt Hill,4,27
+morning,Inwood Hill Park,4,27
+midnight,Ocean Parkway South,4,27
+afternoon,Crotona Park East,4,27
+morning,Marble Hill,4,27
+morning,Queens Village,4,26
+afternoon,Westchester Village/Unionport,4,26
+afternoon,Coney Island,4,26
+evening,Parkchester,4,26
+afternoon,Marble Hill,4,26
+midnight,Van Nest/Morris Park,4,26
+evening,Hunts Point,4,26
+evening,Woodhaven,4,26
+evening,Norwood,4,26
+afternoon,Kew Gardens Hills,4,25
+afternoon,Bellerose,4,25
+afternoon,Bronx Park,4,25
+midnight,West Farms/Bronx River,4,25
+evening,Howard Beach,4,25
+afternoon,Sunset Park East,4,25
+morning,Queensboro Hill,4,25
+midnight,Glendale,4,25
+morning,Claremont/Bathgate,4,25
+evening,Queensboro Hill,4,25
+afternoon,Woodhaven,4,24
+midnight,Parkchester,4,24
+evening,Glendale,4,24
+evening,West Farms/Bronx River,4,24
+morning,Canarsie,4,24
+evening,Bedford Park,4,24
+evening,Saint Michaels Cemetery/Woodside,4,24
+midnight,Crotona Park East,4,24
+morning,Arrochar/Fort Wadsworth,4,24
+evening,Homecrest,4,24
+evening,Murray Hill-Queens,4,24
+evening,Bensonhurst West,4,23
+midnight,Cypress Hills,4,23
+afternoon,Glen Oaks,4,23
+midnight,Hillcrest/Pomonok,4,23
+morning,East Tremont,4,23
+afternoon,Queens Village,4,23
+evening,Flatlands,4,22
+midnight,Williamsbridge/Olinville,4,22
+morning,Soundview/Bruckner,4,22
+midnight,Pelham Parkway,4,22
+morning,Van Cortlandt Village,4,22
+midnight,Co-Op City,4,22
+midnight,Ozone Park,4,22
+midnight,Highbridge Park,4,22
+midnight,East New York/Pennsylvania Avenue,4,22
+morning,Soundview/Castle Hill,4,21
+midnight,Schuylerville/Edgewater Park,4,21
+evening,Claremont/Bathgate,4,21
+evening,Van Cortlandt Village,4,21
+afternoon,Soundview/Castle Hill,4,21
+afternoon,Homecrest,4,21
+afternoon,Auburndale,4,21
+evening,Schuylerville/Edgewater Park,4,21
+evening,Longwood,4,21
+afternoon,East Flatbush/Farragut,4,21
+morning,Middle Village,4,21
+midnight,Queensboro Hill,4,21
+evening,Astoria Park,4,21
+evening,Springfield Gardens North,4,20
+afternoon,Bath Beach,4,20
+midnight,Bensonhurst East,4,20
+evening,Inwood Hill Park,4,20
+afternoon,Van Nest/Morris Park,4,20
+morning,Brownsville,4,20
+evening,Marine Park/Mill Basin,4,20
+evening,Highbridge Park,4,20
+afternoon,Murray Hill-Queens,4,19
+morning,Riverdale/North Riverdale/Fieldston,4,19
+afternoon,West Farms/Bronx River,4,19
+morning,Bath Beach,4,19
+evening,Westchester Village/Unionport,4,19
+afternoon,East Flatbush/Remsen Village,4,19
+afternoon,Springfield Gardens North,4,18
+morning,Hillcrest/Pomonok,4,18
+midnight,Fordham South,4,18
+midnight,Belmont,4,18
+afternoon,Saint Albans,4,18
+morning,East Flatbush/Farragut,4,18
+evening,Bellerose,4,18
+midnight,Queens Village,4,18
+evening,Queens Village,4,17
+morning,Ocean Parkway South,4,17
+evening,Hillcrest/Pomonok,4,17
+evening,Pelham Parkway,4,17
+afternoon,Queensboro Hill,4,17
+midnight,Marble Hill,4,17
+morning,Norwood,4,17
+afternoon,Kingsbridge Heights,4,17
+midnight,Jamaica Estates,4,17
+afternoon,Ozone Park,4,17
+afternoon,Williamsbridge/Olinville,4,17
+evening,College Point,4,17
+midnight,Brooklyn Navy Yard,4,17
+midnight,Sheepshead Bay,4,16
+afternoon,Riverdale/North Riverdale/Fieldston,4,16
+afternoon,Hunts Point,4,16
+midnight,Coney Island,4,16
+midnight,Bellerose,4,16
+morning,East Flatbush/Remsen Village,4,16
+midnight,Madison,4,16
+midnight,Springfield Gardens North,4,16
+evening,Cypress Hills,4,16
+afternoon,Soundview/Bruckner,4,16
+evening,Ocean Parkway South,4,16
+afternoon,Glendale,4,16
+evening,Coney Island,4,15
+evening,Bayside,4,15
+afternoon,Fresh Meadows,4,15
+afternoon,Whitestone,4,15
+evening,Brighton Beach,4,15
+morning,Crotona Park East,4,15
+midnight,Howard Beach,4,15
+morning,Hunts Point,4,15
+afternoon,Pelham Parkway,4,15
+afternoon,Arrochar/Fort Wadsworth,4,15
+afternoon,Schuylerville/Edgewater Park,4,15
+midnight,Bayside,4,14
+midnight,Astoria Park,4,14
+evening,Mariners Harbor,4,14
+morning,Ozone Park,4,14
+midnight,Bath Beach,4,14
+afternoon,Hillcrest/Pomonok,4,14
+afternoon,Marine Park/Mill Basin,4,14
+afternoon,Norwood,4,14
+morning,Bensonhurst East,4,14
+morning,Fordham South,4,14
+morning,Howard Beach,4,14
+afternoon,Belmont,4,14
+morning,Schuylerville/Edgewater Park,4,14
+evening,Williamsbridge/Olinville,4,14
+morning,Springfield Gardens North,4,14
+morning,Belmont,4,13
+evening,Whitestone,4,13
+morning,College Point,4,13
+morning,Pelham Parkway,4,13
+evening,Van Cortlandt Park,4,13
+midnight,Marine Park/Mill Basin,4,13
+evening,Belmont,4,13
+morning,Longwood,4,13
+morning,East New York/Pennsylvania Avenue,4,13
+morning,Highbridge Park,4,13
+midnight,Eastchester,4,13
+evening,East New York/Pennsylvania Avenue,4,12
+evening,Crotona Park East,4,12
+afternoon,Longwood,4,12
+evening,Co-Op City,4,12
+evening,Rosedale,4,12
+evening,Madison,4,12
+evening,Sheepshead Bay,4,12
+midnight,Arrochar/Fort Wadsworth,4,12
+afternoon,Dyker Heights,4,12
+morning,Brighton Beach,4,12
+afternoon,Highbridge Park,4,12
+midnight,Saint Albans,4,12
+midnight,College Point,4,12
+afternoon,Bensonhurst East,4,11
+morning,Murray Hill-Queens,4,11
+afternoon,Parkchester,4,11
+evening,Ozone Park,4,11
+evening,Fordham South,4,11
+midnight,Van Cortlandt Park,4,11
+evening,Heartland Village/Todt Hill,4,11
+morning,Oakland Gardens,4,11
+morning,Sheepshead Bay,4,11
+morning,Whitestone,4,11
+afternoon,Van Cortlandt Village,4,11
+afternoon,Jamaica Estates,4,11
+midnight,Allerton/Pelham Gardens,4,10
+morning,Jamaica Estates,4,10
+midnight,Riverdale/North Riverdale/Fieldston,4,10
+midnight,Mariners Harbor,4,10
+evening,Rockaway Park,4,10
+morning,Woodlawn/Wakefield,4,10
+afternoon,Brighton Beach,4,10
+morning,Madison,4,10
+morning,Saint Albans,4,10
+afternoon,Inwood Hill Park,4,10
+midnight,Murray Hill-Queens,4,10
+afternoon,Woodlawn/Wakefield,4,9
+evening,Arrochar/Fort Wadsworth,4,9
+evening,Green-Wood Cemetery,4,9
+morning,Rosedale,4,9
+afternoon,Douglaston,4,9
+midnight,Green-Wood Cemetery,4,9
+evening,Jamaica Estates,4,9
+midnight,Bronxdale,4,9
+evening,Bath Beach,4,9
+evening,Forest Park/Highland Park,4,9
+morning,Williamsbridge/Olinville,4,9
+midnight,Hollis,4,9
+midnight,Manhattan Beach,4,9
+morning,Marine Park/Mill Basin,4,8
+afternoon,Bayside,4,8
+evening,Dyker Heights,4,8
+evening,Douglaston,4,8
+afternoon,Gravesend,4,8
+morning,Bellerose,4,8
+afternoon,Madison,4,8
+midnight,Brighton Beach,4,8
+midnight,Whitestone,4,8
+afternoon,Green-Wood Cemetery,4,8
+afternoon,Oakland Gardens,4,8
+morning,Allerton/Pelham Gardens,4,8
+evening,Grymes Hill/Clifton,4,7
+midnight,Stapleton,4,7
+evening,Marine Park/Floyd Bennett Field,4,7
+afternoon,Co-Op City,4,7
+afternoon,Willets Point,4,7
+midnight,Fresh Meadows,4,7
+evening,Auburndale,4,7
+afternoon,Manhattan Beach,4,7
+afternoon,Sheepshead Bay,4,7
+evening,Laurelton,4,7
+morning,Gravesend,4,7
+evening,Bensonhurst East,4,7
+evening,Saint Albans,4,7
+morning,East Flushing,4,7
+afternoon,Fordham South,4,7
+afternoon,Marine Park/Floyd Bennett Field,4,7
+midnight,Auburndale,4,6
+morning,Bronx Park,4,6
+evening,Bronx Park,4,6
+afternoon,Stapleton,4,6
+evening,Willets Point,4,6
+morning,Marine Park/Floyd Bennett Field,4,6
+evening,Oakland Gardens,4,6
+afternoon,Bay Terrace/Fort Totten,4,6
+morning,Fresh Meadows,4,6
+midnight,Rosedale,4,6
+midnight,Rockaway Park,4,6
+midnight,Glen Oaks,4,6
+midnight,Douglaston,4,6
+afternoon,East New York/Pennsylvania Avenue,4,6
+afternoon,Hollis,4,6
+afternoon,Starrett City,4,6
+evening,Eastchester,4,6
+morning,Cambria Heights,4,6
+evening,Gravesend,4,6
+morning,Willets Point,4,6
+afternoon,Forest Park/Highland Park,4,5
+afternoon,Laurelton,4,5
+evening,Governor's Island/Ellis Island/Liberty Island,4,5
+midnight,Laurelton,4,5
+evening,Pelham Bay,4,5
+evening,Stapleton,4,5
+evening,Allerton/Pelham Gardens,4,5
+evening,Manhattan Beach,4,5
+afternoon,Pelham Bay Park,4,5
+morning,Douglaston,4,5
+morning,Dyker Heights,4,5
+evening,Hammels/Arverne,4,5
+evening,South Beach/Dongan Hills,4,5
+morning,Forest Park/Highland Park,4,5
+midnight,Forest Park/Highland Park,4,5
+afternoon,Allerton/Pelham Gardens,4,5
+afternoon,Rosedale,4,5
+morning,Bloomfield/Emerson Hill,4,5
+evening,Fresh Meadows,4,5
+morning,Co-Op City,4,5
+afternoon,Eastchester,4,5
+evening,Cambria Heights,4,5
+morning,Starrett City,4,4
+morning,Auburndale,4,4
+morning,Bronxdale,4,4
+evening,Bloomfield/Emerson Hill,4,4
+afternoon,Cambria Heights,4,4
+midnight,Willets Point,4,4
+evening,Rossville/Woodrow,4,4
+midnight,Bronx Park,4,4
+midnight,Pelham Bay,4,4
+morning,Eastchester,4,4
+evening,Woodlawn/Wakefield,4,4
+midnight,Inwood Hill Park,4,4
+afternoon,East Flushing,4,4
+midnight,Marine Park/Floyd Bennett Field,4,4
+morning,Westerleigh,4,4
+midnight,Great Kills,4,4
+evening,Starrett City,4,4
+midnight,East Flushing,4,4
+afternoon,Van Cortlandt Park,4,4
+afternoon,Far Rockaway,4,4
+morning,Laurelton,4,3
+midnight,Pelham Bay Park,4,3
+midnight,Rossville/Woodrow,4,3
+midnight,Broad Channel,4,3
+morning,Bayside,4,3
+morning,Hammels/Arverne,4,3
+afternoon,Crotona Park,4,3
+morning,Green-Wood Cemetery,4,3
+evening,Saint George/New Brighton,4,3
+afternoon,Bronxdale,4,3
+evening,Bay Terrace/Fort Totten,4,3
+midnight,Oakland Gardens,4,3
+afternoon,Port Richmond,4,3
+afternoon,New Dorp/Midland Beach,4,3
+afternoon,Grymes Hill/Clifton,4,3
+midnight,Bay Terrace/Fort Totten,4,3
+morning,Van Cortlandt Park,4,3
+evening,Bronxdale,4,3
+morning,Hollis,4,3
+afternoon,Bloomfield/Emerson Hill,4,3
+midnight,Westerleigh,4,3
+afternoon,Rockaway Park,4,3
+midnight,Hammels/Arverne,4,3
+evening,West Brighton,4,2
+morning,Crotona Park,4,2
+morning,Manhattan Beach,4,2
+evening,Port Richmond,4,2
+morning,Governor's Island/Ellis Island/Liberty Island,4,2
+afternoon,Governor's Island/Ellis Island/Liberty Island,4,2
+afternoon,Pelham Bay,4,2
+midnight,South Beach/Dongan Hills,4,2
+midnight,Arden Heights,4,2
+evening,City Island,4,2
+evening,Great Kills,4,2
+evening,Rikers Island,4,2
+midnight,Port Richmond,4,2
+evening,Jamaica Bay,4,2
+afternoon,Arden Heights,4,2
+midnight,New Dorp/Midland Beach,4,2
+evening,Glen Oaks,4,2
+evening,Freshkills Park,4,2
+midnight,Far Rockaway,4,2
+midnight,Oakwood,4,2
+morning,Glen Oaks,4,2
+evening,East Flushing,4,2
+morning,Far Rockaway,4,2
+midnight,Bloomfield/Emerson Hill,4,2
+afternoon,Jamaica Bay,4,2
+morning,Pelham Bay,4,2
+midnight,Eltingville/Annadale/Prince's Bay,4,2
+evening,Arden Heights,4,2
+evening,Hollis,4,2
+morning,Saint George/New Brighton,4,1
+afternoon,Freshkills Park,4,1
+evening,Westerleigh,4,1
+morning,Jamaica Bay,4,1
+midnight,Saint George/New Brighton,4,1
+midnight,Breezy Point/Fort Tilden/Riis Beach,4,1
+morning,Country Club,4,1
+evening,Broad Channel,4,1
+evening,Oakwood,4,1
+morning,Port Richmond,4,1
+midnight,City Island,4,1
+morning,Bay Terrace/Fort Totten,4,1
+midnight,Country Club,4,1
+evening,Far Rockaway,4,1
+midnight,Grymes Hill/Clifton,4,1
+afternoon,South Beach/Dongan Hills,4,1
+evening,Eltingville/Annadale/Prince's Bay,4,1
+evening,New Dorp/Midland Beach,4,1
+morning,New Dorp/Midland Beach,4,1
+evening,Country Club,4,1
+midnight,West Brighton,4,1
+midnight,Freshkills Park,4,1
+afternoon,Westerleigh,4,1
+morning,Grymes Hill/Clifton,4,1
+afternoon,City Island,4,1
+morning,Stapleton,4,1
+afternoon,Hammels/Arverne,4,1
+morning,Rockaway Park,4,1
+midnight,Heartland Village/Todt Hill,4,1
