@@ -1,0 +1,161 @@
+PUHour	PUZone	month	count
+afternoon	Upper East Side South	1	157826
+afternoon	Upper East Side North	1	151358
+afternoon	Midtown Center	1	134284
+afternoon	Midtown East	1	110824
+afternoon	Union Sq	1	109299
+afternoon	Penn Station/Madison Sq West	1	102715
+afternoon	Upper West Side South	1	98988
+afternoon	Murray Hill	1	98182
+afternoon	Times Sq/Theatre District	1	95499
+afternoon	Lincoln Square East	1	93984
+evening	Times Sq/Theatre District	1	136867
+evening	Midtown Center	1	136487
+evening	Union Sq	1	129806
+evening	Midtown East	1	123194
+evening	East Village	1	110726
+evening	Penn Station/Madison Sq West	1	108464
+evening	Upper East Side South	1	105797
+evening	Lincoln Square East	1	104454
+evening	Clinton East	1	101075
+evening	Murray Hill	1	95915
+midnight	East Village	1	88165
+midnight	Lower East Side	1	60391
+midnight	Clinton East	1	49077
+midnight	West Village	1	46037
+midnight	Times Sq/Theatre District	1	39352
+midnight	Greenwich Village South	1	36337
+midnight	East Chelsea	1	34605
+midnight	Union Sq	1	33883
+midnight	Midtown South	1	30927
+midnight	Gramercy	1	29939
+morning	Upper East Side North	1	115309
+morning	Penn Station/Madison Sq West	1	104143
+morning	Upper East Side South	1	103239
+morning	Murray Hill	1	86052
+morning	Clinton East	1	78625
+morning	Midtown East	1	76679
+morning	Lenox Hill West	1	69660
+morning	Midtown Center	1	68884
+morning	Upper West Side South	1	66162
+morning	Lincoln Square East	1	63032
+afternoon	Upper East Side South	2	138233
+afternoon	Upper East Side North	2	129832
+afternoon	Midtown Center	2	128599
+afternoon	Union Sq	2	102271
+afternoon	Midtown East	2	100671
+afternoon	Penn Station/Madison Sq West	2	94245
+afternoon	Murray Hill	2	89584
+afternoon	Upper West Side South	2	86713
+afternoon	Times Sq/Theatre District	2	86472
+afternoon	Lincoln Square East	2	85488
+evening	Midtown Center	2	133090
+evening	Times Sq/Theatre District	2	128182
+evening	Union Sq	2	123439
+evening	Midtown East	2	117503
+evening	East Village	2	110672
+evening	Penn Station/Madison Sq West	2	105727
+evening	Lincoln Square East	2	100572
+evening	Clinton East	2	99691
+evening	Upper East Side South	2	99636
+evening	Murray Hill	2	97043
+midnight	East Village	2	84297
+midnight	Lower East Side	2	60068
+midnight	Clinton East	2	45932
+midnight	West Village	2	43262
+midnight	Times Sq/Theatre District	2	39356
+midnight	Greenwich Village South	2	35194
+midnight	East Chelsea	2	33350
+midnight	Union Sq	2	32174
+midnight	Midtown South	2	31263
+midnight	Gramercy	2	26224
+morning	Upper East Side North	2	103021
+morning	Penn Station/Madison Sq West	2	100397
+morning	Upper East Side South	2	93668
+morning	Murray Hill	2	82267
+morning	Clinton East	2	73956
+morning	Midtown East	2	70864
+morning	Midtown Center	2	65324
+morning	Lenox Hill West	2	63640
+morning	Upper West Side South	2	60947
+morning	Times Sq/Theatre District	2	58265
+afternoon	Upper East Side South	3	150808
+afternoon	Upper East Side North	3	140461
+afternoon	Midtown Center	3	135698
+afternoon	Midtown East	3	109502
+afternoon	Union Sq	3	108632
+afternoon	Penn Station/Madison Sq West	3	101209
+afternoon	Murray Hill	3	100428
+afternoon	Upper West Side South	3	96854
+afternoon	Times Sq/Theatre District	3	95177
+afternoon	Lincoln Square East	3	93531
+evening	Times Sq/Theatre District	3	146455
+evening	Midtown Center	3	145936
+evening	Union Sq	3	136346
+evening	Midtown East	3	130717
+evening	East Village	3	123070
+evening	Clinton East	3	119759
+evening	Penn Station/Madison Sq West	3	116532
+evening	Lincoln Square East	3	113718
+evening	Murray Hill	3	113247
+evening	Upper East Side South	3	112610
+midnight	East Village	3	85641
+midnight	Lower East Side	3	59301
+midnight	Clinton East	3	51729
+midnight	Times Sq/Theatre District	3	48072
+midnight	West Village	3	42924
+midnight	Greenwich Village South	3	35338
+midnight	Midtown South	3	34870
+midnight	East Chelsea	3	34546
+midnight	Union Sq	3	33916
+midnight	Gramercy	3	28553
+morning	Upper East Side North	3	113448
+morning	Penn Station/Madison Sq West	3	111211
+morning	Upper East Side South	3	105202
+morning	Murray Hill	3	95622
+morning	Clinton East	3	85057
+morning	Midtown East	3	83355
+morning	Lenox Hill West	3	72387
+morning	Midtown Center	3	71994
+morning	Upper West Side South	3	68954
+morning	Times Sq/Theatre District	3	68583
+afternoon	Upper East Side South	4	155594
+afternoon	Upper East Side North	4	142822
+afternoon	Midtown Center	4	134720
+afternoon	Midtown East	4	105991
+afternoon	Union Sq	4	103854
+afternoon	Penn Station/Madison Sq West	4	100345
+afternoon	Upper West Side South	4	98250
+afternoon	Murray Hill	4	97265
+afternoon	Lincoln Square East	4	94864
+afternoon	Times Sq/Theatre District	4	92205
+evening	Midtown Center	4	138336
+evening	Times Sq/Theatre District	4	133818
+evening	Union Sq	4	126986
+evening	Midtown East	4	122051
+evening	Upper East Side South	4	114863
+evening	East Village	4	111587
+evening	Clinton East	4	110462
+evening	Lincoln Square East	4	110007
+evening	Penn Station/Madison Sq West	4	109299
+evening	Murray Hill	4	106794
+midnight	East Village	4	88485
+midnight	Lower East Side	4	66153
+midnight	Clinton East	4	52120
+midnight	West Village	4	46983
+midnight	Times Sq/Theatre District	4	44679
+midnight	East Chelsea	4	40018
+midnight	Greenwich Village South	4	38353
+midnight	Union Sq	4	35847
+midnight	Midtown South	4	34879
+midnight	JFK Airport	4	29463
+morning	Upper East Side North	4	113832
+morning	Upper East Side South	4	107469
+morning	Penn Station/Madison Sq West	4	105131
+morning	Murray Hill	4	86413
+morning	Midtown East	4	82755
+morning	Clinton East	4	82574
+morning	Midtown Center	4	71746
+morning	Lenox Hill West	4	68399
+morning	Upper West Side South	4	67461
+morning	Times Sq/Theatre District	4	67230
