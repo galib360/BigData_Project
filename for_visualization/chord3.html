@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+.group text {
+  font: 11px sans-serif;
+  pointer-events: none;
+}
+
+.group path {
+  stroke: #000;
+}
+
+path.chord {
+  stroke-width: .75;
+  fill-opacity: .75;
+}
+    
+    
+.key-dot {
+    display: inline-block;
+    height: 10px;
+    margin-right: .5em;
+    width: 10px;
+}
+
+.leo { background: #DB704D;}
+.meo { background: #D2D0C6;}
+.geo { background: #ECD08D;}
+
+
+</style>
+<body>
+    <h1><a href = "index.html">Home</a></h1>
+    <h2>Graph March | <a href = "chord1.html">January</a>
+    <a href = "chord2.html">February</a>
+    <a href = "chord3.html">March</a>
+    <a href = "chord4.html">April</a>
+    </h2>
+    <h4>
+    Legend: Categories of trips
+
+                        <p><span class="key-dot leo"></span>More than 40000 trips</p>
+                        <p ><span class="key-dot meo"></span>Between 20000 and 40000 trips</p> 
+                        <p ><span class="key-dot geo"></span>Less than 20000 trips</p>     
+    </h4>
+
+ 
+</body>
+<script src="https://d3js.org/d3.v3.min.js"></script>
+<script>
+
+var width = 1200,
+    height = 960,
+    outerRadius = Math.min(width, height) / 2 - 4,
+    innerRadius = outerRadius - 50;
+
+var format = d3.format(",.3r");
+
+// Square matrices, asynchronously loaded; credits is the transpose of debits.
+var credits = [];
+
+// The chord layout, for computing the angles of chords and groups.
+var layout = d3.layout.chord()
+    .sortGroups(d3.descending)
+    .sortSubgroups(d3.descending)
+    .sortChords(d3.descending)
+    .padding(.04);
+
+// The color scale, for different categories of “worrisome” risk.
+var fill = d3.scale.ordinal()
+    .domain([ 1, 2, 3])
+    .range(["#DB704D", "#D2D0C6", "#ECD08D"]);
+
+// The arc generator, for the groups.
+var arc = d3.svg.arc()
+    .innerRadius(innerRadius)
+    .outerRadius(outerRadius);
+
+// The chord generator (quadratic Bézier), for the chords.
+var chord = d3.svg.chord()
+    .radius(innerRadius);
+
+// Add an SVG element for each diagram, and translate the origin to the center.
+var svg = d3.select("body").selectAll("div")
+    .data([credits])
+  .enter().append("div")
+    .style("display", "inline-block")
+    .style("width", width + "px")
+    .style("height", height + "px")
+  .append("svg")
+    .attr("width", width)
+    .attr("height", height)
+  .append("g")
+    .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+
+// Load our data file…
+d3.csv("GraphMar.csv", type, function(error, data) {
+  if (error) throw error;
+
+  var countryByName = d3.map(),
+      countryIndex = -1,
+      countryByIndex = [];
+
+  // Compute a unique index for each country.
+  data.forEach(function(d) {
+    if (countryByName.has(d.src)) d.src = countryByName.get(d.src);
+    else countryByName.set(d.src, d.src = {name: d.src, index: ++countryIndex});
+    if (countryByName.has(d.dst)) d.dst = countryByName.get(d.dst);
+    else countryByName.set(d.dst, d.dst = {name: d.dst, index: ++countryIndex});
+    d.dst.cat = d.cat;
+  });
+
+  // Initialize a square matrix of debits and credits.
+  for (var i = 0; i <= countryIndex; i++) {
+   
+    credits[i] = [];
+    for (var j = 0; j <= countryIndex; j++) {
+      
+      credits[i][j] = 0;
+    }
+  }
+
+  // Populate the matrices, and stash a map from index to country.
+  data.forEach(function(d) {
+    
+    credits[d.dst.index][d.src.index] = d;
+    countryByIndex[d.src.index] = d.src;
+    countryByIndex[d.dst.index] = d.dst;
+  });
+
+  // For each diagram…
+  svg.each(function(matrix, j) {
+    var svg = d3.select(this);
+
+    // Compute the chord layout.
+    layout.matrix(matrix);
+
+    // Add chords.
+    svg.selectAll(".chord")
+        .data(layout.chords)
+      .enter().append("path")
+        .attr("class", "chord")
+        .style("fill", function(d) { return fill(d.source.value.cat); })
+        .style("stroke", function(d) { return d3.rgb(fill(d.source.value.cat)).darker(); })
+        .attr("d", chord)
+      .append("title")
+        .text(function(d) { return d.source.value.dst.name + " had trips from " + d.source.value.src.name + " occurance " + d.source.value + " times"; });
+
+    // Add groups.
+    var g = svg.selectAll(".group")
+        .data(layout.groups)
+      .enter().append("g")
+        .attr("class", "group");
+
+    // Add the group arc.
+    g.append("path")
+        .style("fill", function(d) { return fill(countryByIndex[d.index].cat); })
+        .attr("id", function(d, i) { return "group" + d.index + "-" + j; })
+        .attr("d", arc)
+      .append("title")
+        .text(function(d) { return countryByIndex[d.index].name + " " + (j ? "dropoff" : "pickup") + " Occurance " + d.value + " times"; });
+
+    // Add the group label (but only for large groups, where it will fit).
+    // An alternative labeling mechanism would be nice for the small groups.
+    g.append("text")
+        .attr("x", 6)
+        .attr("dy", 15)
+        .filter(function(d) { return d.value > 110; })
+      .append("textPath")
+        .attr("xlink:href", function(d) { return "#group" + d.index + "-" + j; })
+        .text(function(d) { return countryByIndex[d.index].name; });
+  });
+});
+
+function type(d) {
+  d.count = +d.count;
+  d.cat = +d.cat;
+  d.valueOf = value; // for chord layout
+  return d;
+}
+
+function value() {
+  return this.count;
+}
+    
+
+</script>

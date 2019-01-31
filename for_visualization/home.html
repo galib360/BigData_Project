@@ -1,0 +1,175 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>InfoVis - Group7</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="manifest" href="site.webmanifest">
+    <link rel="apple-touch-icon" href="icon.png">
+
+    <!--d3-->
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+    <!--css-->
+    <link rel="stylesheet" href="css/legend.css">
+    <!--bootstrap-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <!--css-->
+    <link rel="stylesheet" href="css/main.css"/>
+    
+    <style>
+
+.group text {
+  font: 11px sans-serif;
+  pointer-events: none;
+}
+
+.group path {
+  stroke: #000;
+}
+
+path.chord {
+  stroke-width: .75;
+  fill-opacity: .75;
+}
+
+</style>
+
+
+</head>
+
+<body>
+<!--tabbed menu-->
+<div class="container-fluid">
+    <h4>Satellite Tracker</h4>
+    <h5>Tracks 1738 artificial satellites currently orbiting Earth</h5>
+
+    <ul class="nav nav-tabs">
+        <li class="active"><a data-toggle="tab" href="#tab1">Satellite Information</a></li>
+        <li><a data-toggle="tab" href="#tab2">Orbits and Orbit types</a></li>
+        <li><a data-toggle="tab" href="#tab3">Users and Purposes</a></li>
+    </ul>
+
+    <div class="tab-content">
+        <!--tab1 SATELLITE MASS, POSITIONS, MOTION AND DESCRIPTIONS-->
+        <div id="tab1" class="tab-pane fade in active">
+            <!--How satellites revolve-->
+            <div id="svg" class="col-md-12">
+                <div class="col-md-2" style="color:white;">*You can drag the whole satellite system by single click and zoom on it by pan zooming.<br>The red stroke depicts the boundary of the satellite itself, whereas the white stroke depicts satellite's orbit</div>
+            </div>
+        </div>
+
+        <!--tab2  ORBITS-->
+        <div id="tab2" class="tab-pane fade">
+            <div class="row">
+                <br>
+                <div class="col-sm-6">
+                    <div id="Selection1" class="pull-right text-right ">
+                        Select Country:
+                        <select id="Country" onchange="select()">
+                            <option value="USA">USA</option>
+                            <option value="Russia">Russia</option>
+                            <option value="China">China</option>
+                            <option value="South Korea">South Korea</option>
+                            <option value="Germany">Germany</option>
+                            <option value="India">India</option>
+                            <option value="Japan">Japan</option>
+                            <option value="Norway">Norway</option>
+                            <option value="All" selected="selected">All</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div id="Selection2" class="float-left text-left">
+                        Select Users:
+                        <select id="Users" onchange="select()">
+                            <option value="Civil">Civil</option>
+                            <option value="Military">Military</option>
+                            <option value="Commercial">Commercial</option>
+                            <option value="Government">Government</option>
+                            <option value="All" selected="selected">All</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-sm-4 text-center">Legend: Class of Orbits
+
+                       <div class="col-sm-1"> <p><span class="key-dot leo"></span>LEO</p> </div>
+                       <div class="col-sm-1"> <p ><span class="key-dot meo"></span>MEO</p> </div>
+                       <div class="col-sm-1"> <p ><span class="key-dot geo"></span>GEO</p> </div>
+                     <div class="col-sm-1"> <p ><span class="key-dot heo"></span>HEO</p> </div>
+
+                </div>
+            </div>
+            <br>
+
+            <div id="containerEllipses" class="col-sm-7">
+                <svg id="ellipsesvg"></svg>
+            </div>
+            <div class="col-sm-5 text-center" id="zoomableScatter">
+                <svg id="scattersvg"></svg>
+                Note: In the above scatterplot, select an area to zoomin and double click to zoomout.
+            </div>
+
+            <div class="col-sm-5" id="radarchart"></div>
+        </div>
+
+
+        <!--tab3 USAGE AND PURPOSE OF SATELLITES-->
+        <div id="tab3" class="tab-pane fade">
+            <div class="row">
+                <br>
+                <div class="col-sm-6">
+                    <div id="Selection3" class= "pull-right text-right">
+                        Select Purpose:
+                        <select id="Purpose" onchange="select3()">
+                            <option value="Communications">Communications</option>
+                            <option value="Earth Observation">Earth Observation</option>
+                            <option value="Technology Development">Technology Development</option>
+                            <option value="Technology Demonstration">Technology Demonstration</option>
+                            <option value="Space Science">Space Science</option>
+                            <option value="Earth Science">Earth Science</option>
+                            <option value="Navigation/Regional Positioning">Navigation/Regional Positioning</option>
+                            <option value="Navigation/Global Positioning">Navigation/Global Positioning</option>
+                            <option value="All" selected="selected">All</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div id="Selection4" class= "float-left text-left">
+                        Select Users:
+                        <select id="Users1" onchange="select3()">
+                            <option value="Civil">Civil</option>
+                            <option value="Military">Military</option>
+                            <option value="Commercial">Commercial</option>
+                            <option value="Government">Government</option>
+                            <option value="All" selected="selected">All</option>
+
+                        </select>
+                    </div>
+                </div>
+                <div class="col-sm-4"></div>
+            </div>
+            <br>
+            <div id="country_count" class="col-sm-6">
+                <svg id="cc"></svg>
+            </div>
+            <div id="year_count" class="col-sm-6">
+                <svg id="yc"></svg>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
+
+<!--Our Script files-->
+
+    
+
+</body>
+</html>
