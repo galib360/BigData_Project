@@ -1,0 +1,51 @@
+src,dst,count,month,avg_fare,cat
+Upper East Side South,Upper East Side North,49463,2,8.205068031,1
+Upper East Side North,Upper East Side North,43241,2,6.906016281,1
+Upper East Side North,Upper East Side South,41255,2,8.947349897,1
+Upper East Side South,Upper East Side South,37220,2,7.268472864,2
+Upper West Side South,Upper West Side North,25353,2,7.33219264,2
+Upper West Side South,Lincoln Square East,24188,2,7.886601207,2
+Lincoln Square East,Upper West Side South,21779,2,8.141191974,2
+Upper West Side North,Upper West Side South,21752,2,7.261884884,2
+East Village,East Village,21687,2,7.685407848,2
+Times Sq/Theatre District,Penn Station/Madison Sq West,21580,2,8.656363763,2
+Penn Station/Madison Sq West,Midtown Center,21104,2,11.04068328,2
+Penn Station/Madison Sq West,Times Sq/Theatre District,20551,2,9.987960683,2
+Upper East Side South,Midtown East,20501,2,8.560574606,2
+Upper East Side South,Midtown Center,19914,2,9.581869539,3
+Lenox Hill West,Upper East Side North,19876,2,8.327638358,3
+Midtown Center,Upper East Side South,19776,2,9.131218143,3
+Clinton East,Clinton East,18574,2,7.870694519,3
+Union Sq,Murray Hill,18547,2,9.390339678,3
+Upper West Side South,Upper West Side South,18042,2,7.201375125,3
+Gramercy,Murray Hill,17591,2,8.747939287,3
+Penn Station/Madison Sq West,Murray Hill,17554,2,10.35392845,3
+Yorkville West,Upper East Side North,17355,2,7.071003745,3
+Upper East Side South,Lenox Hill West,17201,2,7.474249753,3
+Penn Station/Madison Sq West,Union Sq,16858,2,8.675990034,3
+Clinton East,East Chelsea,16849,2,8.68521752,3
+Lenox Hill West,Upper East Side South,16701,2,7.458042033,3
+Midtown East,Murray Hill,16594,2,8.319764975,3
+Upper East Side North,Lenox Hill West,16541,2,9.151658908,3
+Midtown Center,Midtown Center,16494,2,8.331370195,3
+Upper East Side North,Upper West Side South,16027,2,31.15740937,3
+East Village,Gramercy,15939,2,8.027612774,3
+Murray Hill,Union Sq,15921,2,9.026995792,3
+Lincoln Square East,Upper West Side North,15899,2,10.04108749,3
+Upper West Side South,Upper East Side North,15499,2,10.5412975,3
+Midtown Center,Union Sq,15495,2,10.80518748,3
+Midtown Center,Midtown South,15487,2,8.614633564,3
+Midtown Center,Penn Station/Madison Sq West,15248,2,10.9185244,3
+Garment District,Midtown Center,15248,2,8.717186516,3
+Yorkville West,Lenox Hill West,15124,2,7.83638191,3
+Yorkville East,Upper East Side North,15116,2,7.992089177,3
+Upper East Side North,Yorkville East,14957,2,8.036608277,3
+Midtown Center,Upper East Side North,14844,2,12.45431218,3
+Lenox Hill West,Lenox Hill West,14762,2,7.583210947,3
+Upper East Side North,Yorkville West,14591,2,7.105164142,3
+Union Sq,Penn Station/Madison Sq West,14573,2,9.167301173,3
+Murray Hill,Midtown Center,14496,2,9.211149283,3
+Upper West Side North,Lincoln Square East,14420,2,9.864054092,3
+Midtown East,Upper East Side South,14416,2,8.976500416,3
+Upper East Side North,Upper West Side North,14391,2,10.27041693,3
+Clinton East,Midtown Center,14328,2,9.036752513,3
